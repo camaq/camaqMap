@@ -17,7 +17,7 @@ var graphEDE;
 var graphUniversitaire;
 var graphCOLLÉGIALETTECHNIQUE;
 var graphSECONDAIREETPROFESSIONNEL;
-var graphExtend;
+var graphExtend; 
 
 ////////////////////Noeuds Root///////////////////
 graphRoot = function () { return {
