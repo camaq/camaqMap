@@ -865,9 +865,47 @@ document.getElementById("about").onclick = function(){
 		document.getElementById('popTitle').innerHTML = this.innerHTML + "<br><br>";
 		document.getElementById('popLien').innerHTML = "";
 		document.getElementById('popLien').href = "";
-		document.getElementById('popMission').innerHTML = "";
-		document.getElementById('popActivite').innerHTML = "";
-		
+		document.getElementById('popMission').innerHTML = "<span style=\"font-weight: bold;\"> Historique </span><br><br>\
+		Débuté en 2012, ce projet réalisé en collaboration avec Aéro Montréal a voulu au départ répondre aux questions qui étaient régulièrement soulevées lors des différents groupes de travail, que ce soit au CAMAQ ou chez Aéro Montréal, soit :<br><br>\
+		\u27E9 Manque de visibilité entre les différents acteurs et intervenants de la formation et des organismes de soutien au Québec<br>\
+		\u27E9 Manque de visibilité sur les sources de financement<br>\
+		\u27E9 Collaboration sous-optimale entre les différents organismes<br>\
+		\u27E9 Mandats et responsabilités ne sont pas clairs : dédoublement des tâches<br>\
+		\u27E9 Pas d’outil de promotion centralisé et global.<br><br>\
+		Ainsi, depuis ce temps, de nombreuses rencontres ont eu lieu ainsi que deux journées de travail complètes pour répertorier et définir ces acteurs et intervenants de la formation en aérospatiale.<br><br>\
+		<span style=\"font-weight: bold;\"> Objectif </span><br><br>\
+		Mettre à la disposition des entreprises d’ici ou d’ailleurs, futurs étudiants ou étudiants actuels un portrait de la formation en aérospatiale au Québec.<br><br>\
+		<span style=\"font-weight: bold;\"> Remerciements </span><br><br>\
+		Ce projet est rendu possible grâce à la participation de nombreux acteurs.<br><br>\
+		Nous tenons à remercier :<br><br>\
+		\u27E9 Alain Aubertin, CRIAQ<br>\
+		\u27E9 Anne-Renée Meloche, Groupe Meloche inc.<br>\
+		\u27E9 Annie St-Germain, CPMT<br>\
+		\u27E9 Claude Picard, Pratt & Whitney Canada<br>\
+		\u27E9 Clothilde Petitjean, CRIAQ<br>\
+		\u27E9 Geneviève Dalcourt, ÉNA<br>\
+		\u27E9 Gino Turcotte, Bombardier Aéronautique <br>\
+		\u27E9 Hany Moustafa, ÉTS<br>\
+		\u27E9 Karen Packwood, CRIAQ<br>\
+		\u27E9 Lucie Ducharme, ÉMAM<br>\
+		\u27E9 Margoth Llanos, Abipa<br>\
+		\u27E9 Marie-Josée Kasparian, AÉRO Montréal<br>\
+		\u27E9 Mario Héroux, ÉMAM<br>\
+		\u27E9 Martin Lafleur, Aéro Montréal<br>\
+		\u27E9 Mélissa Fafard, ÉTS<br>\
+		\u27E9 Nathalie Paré, CAMAQ<br>\
+		\u27E9 Robin Ducoudré, CAMAQ<br>\
+		\u27E9 Rui Cabral, Abipa<br>\
+		\u27E9 Stéphane Arseneaut, IFA<br>\
+		\u27E9 Stéphane Desjardins, Abipa<br>\
+		\u27E9 Stéphanie Guérette, CAMAQ<br>\
+		\u27E9 Véronique Cantin, Pratt and Whitney Canada<br>\
+		\u27E9 Vincent Pierre Giroux, Bombardier Aéronautique<br><br>\
+		Un remerciement spécial à Tarek Ellouadghiri Elidrissi, programmeur stagiaire de l’Université Laval.<br><br><br><br>\
+		<span style=\"font-weight: bold;\">La cartographie de la formation en aérospatiale au Québec et des organismes en soutien est rendue possible avec la collaboration financière de :<br><br>\
+		la Commission des partenaires du marché du travail (CPMT) </span><br><br>"
+		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #4678fb; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
+				
 		document.getElementById('pathPopup').innerHTML = "";
 		document.getElementById("backTosearchResult").style.display = "none";
 	
@@ -897,8 +935,8 @@ document.getElementById("contact").onclick = function(){
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 Montréal (Québec)\u00A0\u00A0H1N 3V7<br>\
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 <a href=\"http://www.camaq.org/\">www.camaq.org</a><br><br><br>\
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 <iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11172.569803746928!2d-73.5494563!3d45.5675739!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x47fc18fcee6fe997!2sCAMAQ+(Comit%C3%A9+sectoriel+de+main+d&#39;oeuvre+en+a%C3%A9rospatiale+du+Qu%C3%A9bec)!5e0!3m2!1sen!2sca!4v1492786519470' width='500' height='300' frameborder='0' style='border:0' allowfullscreen></iframe><br>";
-		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #4678fb; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ)</div>";
-		
+		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #4678fb; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
+				
 		document.getElementById('pathPopup').innerHTML = "";
 		document.getElementById("backTosearchResult").style.display = "none";
 	
