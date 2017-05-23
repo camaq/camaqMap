@@ -78,7 +78,7 @@ graphRDLMDO = function () { return {
 				"lien":  "http://www.centredessciencesdemontreal.com" },
 				
 			{"id": 5, "titre": "Cadets de l'Air", "graphOpen": "NAN",
-				"mission": "La Ligue des cadets de l’Air du Canada est une organisation civile à but non lucratif, fondée sur l’engagement bénévole dirigé, qui, en collaboration avec le ministère de la Défense nationale et autres partenaires, vise notamment à soutenir les objectifs du Programme des cadets de l’Aviation royale canadienne. Les objectifs de la Ligue consistent à enrichir l’éducation des cadets de l’air, de même qu’à promouvoir l’élément « air » des Forces canadiennes.<br><br>",
+				"mission": "Le comité provincial de la Ligue des cadets de l’Air du Canada - Québec et Vallée de l’Outaouais (CPQVO) - est un organisme civil de bienfaisance, fondé sur l’engagement bénévole dirigé. Il a comme mission d’apporter aide, soutien et conseil au programme des cadets de l’Air et d’agir à titre de porte-parole au nom de la Ligue. De plus, le comité souhaite stimuler l’intérêt des jeunes âgées de 12 à 18 ans envers le domaine de l’aviation et de l’aérospatiale, tout en faisant la promotion des bienfaits d’une vie active et saine. Nous croyons fermement contribuer au développement de citoyens responsables qui participeront activement aux projets futurs dans leur communauté.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de programmes éducatifs :</span><br><br>\
 							\u27E9 Pilotage<br>\
 							\u27E9 Exercice militaire d’escadron<br>\
