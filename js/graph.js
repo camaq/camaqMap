@@ -1269,7 +1269,7 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
  							\u27E9 Passerelle DEP Techniques d’Usinage vers DEC Techniques de génie mécanique",
 				"lien":  "http://www.cegepsl.qc.ca" },
 						
-		{"id": 4, "titre": "Cégep de Chicoutimi\n(Centre québécois de\nformation aéronautique\n(CQFA))", "graphOpen": "NAN", "symb": ["E"],
+		{"id": 4, "titre": "Centre québécois de\nformation aéronautique\n(CQFA)\n(Cégep de Chicoutimi)", "graphOpen": "NAN", "symb": ["E"],
 				"mission": "Le rôle du Centre dépasse largement l’enseignement du pilotage aux étudiants réguliers. Il a aussi comme mission de produire du matériel didactique francophone adapté à l’environnement nord-américain, de soutenir la petite et la moyenne entreprise, de rendre disponibles des programmes d’actualisation et de recyclage à une population adulte et de faire de la recherche pédagogique dans les disciplines connexes au pilotage.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Formations dispensées :</span><br><br>\
  							\u27E9 Techniques de pilotage d’aéronefs (Multimoteurs aux instruments)<br>\
