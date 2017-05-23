@@ -530,12 +530,12 @@ graphInternationalODS = function () { return {
   		{"id": 0, "titre": "International", "logo": "NAN", "graphOpen": "NAN"},
 				
 		{"id": 1, "titre": "Association internationale\ndu transport aérien (IATA)", "graphOpen": "NAN",
-				"mission": "The IATA seeks to be the force for value creation and innovation driving a safe, secure and profitable air transport industry that sustainably connects and enriches our world. Its mission is to represent, lead, and serve the airline industry. <br><br>",
+				"mission": "IATA seeks to be the force for value creation and innovation driving a safe, secure and profitable air transport industry that sustainably connects and enriches our world. Its mission is to represent, lead, and serve the airline industry. <br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de services et de programmes :</span><br><br>\
  							\u27E9 Cargo (sécurité, opérations, etc.)<br>\
- 							\u27E9 Environnement (carburants alternatifs)<br>\
- 							\u27E9 Opérations et infrastructures (gestion du trafic aérien, opérations à terre, maintenance et ingénierie)<br>\
- 							\u27E9 Distribution aériennes<br>\
+ 							\u27E9 Environnement (carburants alternatifs, etc.)<br>\
+ 							\u27E9 Opérations et infrastructures (gestion du trafic aérien, opérations au sol, maintenance et ingénierie, etc.)<br>\
+ 							\u27E9 Distribution aérienne<br>\
  							\u27E9 Groupes de travail (lignes aériennes, aéroports, gestion du trafic, etc.)<br>\
  							\u27E9 Sécurité (en cabine, sur les pistes, etc.)<br>\
  							\u27E9 Passager (programme de transport rapide, etc.)",
