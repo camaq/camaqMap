@@ -377,7 +377,7 @@ graphFPLR = function () { return {
 				"lien":  "http://www.prima.ca/fr" },
 						
 		{"id": 3, "titre": "Centre facilitant la\nrecherche et l'innovation\ndans les organisations\n(CEFRIO)", "graphOpen": "NAN", "symb": ["S"],
-				"mission": "Organisme de recherche et d’innovation, le CEFRIO regroupe près de 150 membres universitaires, gouvernementaux et du secteur privé ainsi que plus de 90 chercheurs associés et invités. Tous ensemble, ils œuvrent à la transformation des pratiques par le numérique, permettant ainsi aux organisations et entreprises d’améliorer leur vitalité.<br><br>",
+				"mission": "Le CEFRIO est un organisme de recherche et d’innovation qui accompagne les entreprises et les organisations dans la transformation de leurs pratiques par l'adoption du numérique. Il recherche, expérimente, mesure et fait connaître les usages du numérique dans tous les volets de la société. Son action s'appuie sur une équipe expérimentée, un réseau de plus de 90 chercheurs associés et invités ainsi que l'engagement de plus de 200 membres.<br><br>",
 				"activite": "",
 				"lien":  "http://www.cefrio.qc.ca" },
 						
