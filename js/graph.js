@@ -1188,6 +1188,9 @@ graphUniversitaire = function () { return {
 				"mission": "À titre d’institution d’enseignement supérieur, l’UQAC œuvre aux trois cycles d’études et est active en recherche/création. Elle assume une mission de transmission et de diffusion des connaissances en offrant un ensemble de programmes d’études qui s’adressent à des étudiants ayant des profils variés et intéressés par une formation initiale de qualité et une mise à jour continuelle de leur savoir, afin que ceux-ci soient en mesure de jouer un rôle de citoyens responsables dans une société en perpétuel changement.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie mécanique<br>\
+							\u27E9 Baccalauréat en génie électrique<br>\
+							\u27E9 Baccalauréat en génie informatique<br>\
+							\u27E9 Baccalauréat en génie civil<br>\
  							\u27E9 Maîtrise en ingénierie<br>\
  							\u27E9 Doctorat en ingénierie",
 				"lien":  "http://www.uqac.ca" },
