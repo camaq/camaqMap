@@ -408,7 +408,7 @@ graphFPLR = function () { return {
 				"lien":  "http://www.criq.qc.ca/fr" },
 						
 		{"id": 7, "titre": "Consortium de recherche et\nd'innovation en aérospatiale\nau Québec\n(CRIAQ)", "graphOpen": "NAN", "symb": ["S"],
-				"mission": "Le CRIAQ développe et stimule la collaboration entre les spécialistes industriels et les chercheurs dans le cadre de projets de recherche précompétitive en aérospatiale. Le CRIAQ finance les étudiants via des projets ou des stages en laboratoires grâce au programme d’initiation à la recherche en aérospatiale (PIRA) et commandite des événements et des compétitions étudiantes en aérospatiale.<br><br>",
+				"mission": "Le CRIAQ développe et stimule la collaboration entre les spécialistes industriels et les chercheurs dans le cadre de projets de recherche précompétitive en aérospatiale. Le CRIAQ finance les étudiants via ses projets par des stages en laboratoires.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de projets de recherche :</span><br><br>\
  							\u27E9 Réduction de bruit dans les cabines d’avions et d’hélicoptères<br>\
  							\u27E9 Banc d’essai dynamique pour systèmes de gestion de vol<br>\
