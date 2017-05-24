@@ -1343,7 +1343,8 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
 				"mission": "Le mandat du CFP L’Émergence est d’offrir des programmes de formation professionnelle de type DEP, ASP ou AEP.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts : </span><br><br>\
  							\u27E9 Techniques d’usinage (DEP)<br>\
- 							\u27E9 Usinage sur machines-outils à commande numérique (ASP)",
+ 							\u27E9 Usinage sur machines-outils à commande numérique (ASP)<br>\
+		  					\u27E9 Opération d'équipements de production (DEP)",
 				"lien":  "http://www.lemergence.qc.ca" },
 						
 		{"id": 4, "titre": "Centre de formation en\ntransport de Charlesbourg\n(CFTC)", "graphOpen": "NAN",
