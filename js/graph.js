@@ -1281,11 +1281,12 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
 				"lien":  "http://www.cegepsl.qc.ca" },
 						
 		{"id": 4, "titre": "Centre québécois de\nformation aéronautique\n(CQFA)\n(Cégep de Chicoutimi)", "graphOpen": "NAN", "symb": ["E"],
-				"mission": "Le rôle du Centre dépasse largement l’enseignement du pilotage aux étudiants réguliers. Il a aussi comme mission de produire du matériel didactique francophone adapté à l’environnement nord-américain, de soutenir la petite et la moyenne entreprise, de rendre disponibles des programmes d’actualisation et de recyclage à une population adulte et de faire de la recherche pédagogique dans les disciplines connexes au pilotage.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Formations dispensées :</span><br><br>\
- 							\u27E9 Techniques de pilotage d’aéronefs (Multimoteurs aux instruments)<br>\
- 							\u27E9 Techniques de pilotage d’aéronefs (Hélicoptère)<br>\
- 							\u27E9 Techniques de pilotage d’aéronefs (Hydravion et avions monomoteurs)",
+				"mission": "LE CQFA est la seule école nationale publique au Québec à offrir un programme de formation en pilotage d'aéronefs.<br><br>\Le rôle du Centre dépasse largement l’enseignement du pilotage aux étudiants réguliers. Il a aussi comme mission de produire du matériel didactique francophone adapté à l’environnement nord-américain, de soutenir la petite et la moyenne entreprise, de rendre disponibles des programmes d’actualisation et de recyclage à une population adulte et de faire de la recherche pédagogique dans les disciplines connexes au pilotage.<br><br>",
+				"activite": "<span style=\"font-weight: bold;\">Formations dispensées</span><br><br>\
+							Diplôme d'études collégiales (DEC) :<br><br>\
+ 							\u27E9 280.A3  Techniques de pilotage d’aéronefs hydravion et avions monomoteurs sur roues et sur skis<br>\
+ 							\u27E9 280.A4  Techniques de pilotage d’aéronefs multimoteurs aux instruments<br>\
+ 							\u27E9 280.A5  Techniques de pilotage d’aéronefs / hélicoptères",
 				"lien":  "http://www.cqfa.ca" },
 				
 		{"id": 5, "titre": "Cégep du Vieux Montréal", "graphOpen": "NAN",
