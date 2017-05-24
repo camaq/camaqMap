@@ -768,12 +768,20 @@ graphProvincialODS = function () { return {
 		{"id": 3, "titre": "Association québécoise\ndu transport aérien (AQTA) ", "graphOpen": "NAN",
 				"mission": "Le rôle de l'AQTA est de faire les représentations nécessaires et promouvoir les intérêts des membres pour le développement de l'industrie du transport aérien au Québec.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Bourse d'études pour une formation en pilotage<br>\
- 							\u27E9 Conseil en matière de réglementation aérienne<br>\
- 							\u27E9 Financement pour le progrès de certains dossiers<br>\
- 							\u27E9 Journées de réseautage<br>\
- 							\u27E9 Programme d'assurance collective<br>\
- 							\u27E9 Programme de formation d'exploitants d'hélicoptères",
+							\u27E9 Une équipe compétente offrant représentation, information, référence, appui, conseil<br>\
+							\u27E9 Des ressources humaines et financières pour faire avancer les dossiers<br>\
+							\u27E9 Un Congrès annuel en mars<br>\
+							\u27E9 Une Soirée réseautage annuelle à l’automne<br>\
+							\u27E9 Une infolettre Air<br>\
+							\u27E9 Un Programme d’assurance collective<br>\
+							\u27E9 Un Programme de placement en aviation en collaboration avec Aéroemploi<br>\
+							\u27E9 Un Code d’éthique environnemental pour les exploitants d’hydravions<br>\
+							\u27E9 Une Politique d’embauche<br>\
+							\u27E9 Une Entente de formation sous réserve générique (Training Bond)<br>\
+							\u27E9 Une Bourse d'études pour une formation en pilotage<br>\
+							\u27E9 Une représentation auprès du ministère de la Défense nationale pour le programme de formation des cadets de l’air (pilotage)<br>\
+							\u27E9 Un rapport de vol normalisé pour les exploitants d’hélicoptères<br>\
+							\u27E9 Un Programme de formation spécifique pour les exploitants d’hélicoptères",
 				"lien":  "http://www.aqta.ca" },		
 		
 		{"id": 4, "titre": "Conseil des aéroports du\nQuébec (CAQ)", "graphOpen": "NAN",
