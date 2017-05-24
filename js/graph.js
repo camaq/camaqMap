@@ -1339,8 +1339,8 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Rembourrage d’aéronefs (AFP)",
 				"lien":  "http://www.ecole-metiers-aerospatiale.csdm.ca" },
 				
-		{"id": 3, "titre": "Centre de formation\nprofessionnelle (CFP)\nL'Émergence", "graphOpen": "NAN",
-				"mission": "Le mandat du CFP L’Émergence est d’offrir des programmes de formation professionnelle de type DEP, ASP ou AEP.<br><br>",
+		{"id": 3, "titre": "Centre de formation\nprofessionnelle (CFP)\nl'Émergence", "graphOpen": "NAN",
+				"mission": "Le mandat du CFP l’Émergence est d’offrir des programmes de formation professionnelle de type DEP, ASP ou AEP.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts : </span><br><br>\
  							\u27E9 Techniques d’usinage (DEP)<br>\
  							\u27E9 Usinage sur machines-outils à commande numérique (ASP)<br>\
@@ -1541,7 +1541,7 @@ var graphExtend =
 						<li class='children__item'><div class='nodeExt'>Cégep de Trois-Rivières</div></li>\
 						<li class='children__item'><div class='nodeExt'>École nationale d'aérotechnique (ÉNA) (Cégep Édouard-Montpetit)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Cégep de Saint-Laurent</div></li>\
-						<li class='children__item'><div class='nodeExt'>Cégep de Chicoutimi (Centre québécois de formation aéronautique (CQFA))</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA) (Cégep de Chicoutimi)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Cégep du Vieux Montréal</div></li>\
 					</ol>\
 				</li>\
@@ -1550,7 +1550,7 @@ var graphExtend =
 					<ol class='children'>\
 						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) des Moulins</div></li>\
 						<li class='children__item'><div class='nodeExt'>École des métiers de l'aérospatiale de Montréal (ÉMAM)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) L'Émergence</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) l'Émergence</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre de formation en transport de Charlesbourg (CFTC)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre intégré de mécanique, de métallurgie et d’électricité (CIMME)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) Pierre-Dupuy</div></li>\
