@@ -190,7 +190,7 @@ graphFCEP = function () { return {
 		{"id": 6, "titre": "Centre québécois de\nformation aéronautique\n(CQFA)", "graphOpen": "NAN",
 				"mission": "Le CQFA, par le biais de son programme de formation continue, s’applique à maintenir les compétences des professionnels de l’aviation, tant au niveau de l’aviation civile que chez les exploitants aériens, les aéroports, jusqu’aux pilotes.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de formations offertes :</span><br><br>\
-							\u27E9 Pilote vérificateur agréé, gestion des ressources du poste de pilotage, entrainement en vol de l’équipage, formation de formateurs, évitement de CFIT, vol à haute altitude, communications entre la cabine et le poste de pilotage, communications en situation d’urgence, procédures MNPS/RVSM, pilotage professionnel de drones, fonctionnaires de l’aviation civile, etc.\
+							\u27E9 Pilote vérificateur agréé, gestion des ressources du poste de pilotage, entrainement en vol de l’équipage, formation de formateurs, évitement de CFIT, vol à haute altitude, gestion des menaces et des erreurs, GRPP, procédures MNPS/RVSM, pilotage professionnel de drones, fonctionnaires de l’aviation civile, survie en régions éloignées, extraction d’aéronef submergé, etc.\
 							<br><br><span style=\"font-weight: bold;\">Exemples de services offerts aux entreprises :</span><br><br>\
 							\u27E9 Formations sur mesure adaptée aux besoins des entreprises<br>\
 							\u27E9 Expertise dans le soutien à l’entreprise en ce qui concerne le développement de la formation, l’aide pédagogique et le développement d’outils pédagogiques<br>\
