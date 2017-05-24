@@ -1691,7 +1691,6 @@ var graphExtend =
 							<li class='children__item'><div class='nodeExt'>Conseil des aéroports du Québec (CAQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Conseil du patronat du Québec (CPQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Manufacturiers et Exportateurs du Québec (MEQ)</div></li>\
-							<li class='children__item'><div class='nodeExt'>Manufacturiers et Exportateurs du Québec (MEQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Association pour le développement de la recherche et de l'innovation du Québec (ADRIQ)</div></li>\
 						</ol>\
 					</li>\
