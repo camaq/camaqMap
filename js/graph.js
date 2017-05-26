@@ -914,14 +914,11 @@ graphProvincial = function () { return {
 		{"id": 0, "titre": "Provincial", "logo": "NAN", "graphOpen": "NAN"},
 		
 		{"id": 1, "titre": "Ministère de l'Économie, de\nla Science et de l'Innovation\n(MESI)", "graphOpen": "NAN", "symb": ["S"],
-				"mission": "Le Ministère a pour mission de soutenir la croissance des entreprises, l’entrepreneuriat, la science, l’innovation ainsi que l’exportation et l’investissement. Il coordonne l’élaboration et la mise en œuvre de la stratégie numérique. Il conseille également le gouvernement en vue de favoriser le développement économique de toutes les régions du Québec, et ce, dans une perspective de création d’emplois, de prospérité économique et de développement durable.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Financement pour l’achat d’équipement, agrandissement, construction, appui à la productivité, commercialisation, démarrage d’entreprise, design environnement, exportation, main-d’œuvre, nouveau produit, nouvelle technologie, promotion de la science et de l’innovation, R-D et innovation, réalisation d’une étude, valorisation et transfert de la recherche<br>\
- 							\u27E9 Accompagnement-conseil stratégique, administration et management, développement durable, exportation, finances, marketing et vente, production, ressources humaines, stratégie numérique\
-							<br><br><span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
- 							\u27E9 Premier emploi en recherche<br>\
+				"mission": "Le Ministère a pour mission de soutenir la croissance des entreprises, l’entrepreneuriat, la science, l’innovation ainsi que l’exportation et l’investissement. Il coordonne notamment l’élaboration et la mise en œuvre de la Stratégie québécoise de la recherche et de l’innovation, la Stratégie numérique du Québec et de la Stratégie québécoise de l'aérospatiale.<br><br> Il conseille également le gouvernement en vue de favoriser le développement économique de toutes les régions du Québec, et ce, dans une perspective de création d’emplois, de prospérité économique et de développement durable.<br><br>",
+				"activite": "<span style=\"font-weight: bold;\">En matière de développement des compétences, de la relève et des talents, les programmes offerts sont :</span><br><br>\
  							\u27E9 Programme NovaScience<br>\
- 							\u27E9 Stages d’innovation en entreprise (en collaboration avec Mitacs via les programmes Accélération et Élévation)",
+							\u27E9 Premier emploi en recherche<br>\
+							\u27E9 Stages d’innovation en entreprise (en collaboration avec Mitacs via les programmes Accélération, Élévation et Globalink)",
 				"lien":  "http://www.economie.gouv.qc.ca" },
 						
 		{"id": 2, "titre": "Investissement Québec (IQ)", "graphOpen": "NAN", "symb": ["S"],
@@ -1664,7 +1661,7 @@ var graphExtend =
 				<li class='children__item'><div class='nodeExt'>Systèmes aéronautiques d'avant-garde pour l'environnement (SA²GE)</div></li>\
 				<li class='children__item'><div class='nodeExt'>QuébecInnove</div></li>\
 				<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Ministère de l'Économie de la Science et de l'Innovation (MESI)</div></li>\
+				<li class='children__item'><div class='nodeExt'>Ministère de l'Économie, de la Science et de l'Innovation (MESI)</div></li>\
 				<li class='children__item'><div class='nodeExt'>Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)</div></li>\
 				<li class='children__item'><div class='nodeExt'>MITACS</div></li>\
 				<li class='children__item'><div class='nodeExt'>Centre technologique en aérospatiale (CTA)</div></li>\
