@@ -303,8 +303,8 @@ graphAéroFormation = function () { return {
 							\u27E9 Former des travailleurs compétents et maintenir leurs compétences à jour<br>\
 							\u27E9 Améliorer la performance des organisations<br>\
 							\u27E9 Former pour motiver et conserver les employés<br>\
-							\u27E9 Soutenir les changements organisationnels<br><br>\
-							<br><br>",
+							\u27E9 Soutenir les changements organisationnels<br>\
+							<br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de réalisations pour les entreprises :</span><br><br>\
 							\u27E9 Formation sur mesure<br>\
 							\u27E9 Développement de test de compétence : embauche, sélection, promotion, etc. <br>\
