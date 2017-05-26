@@ -296,22 +296,75 @@ graphAéroFormation = function () { return {
 							\u27E9 Systèmes (électricité de base, sertissage, brasage tendre), etc.",
 				"lien":  "http://www.aeromontreal.ca/aeroformation.html" },
 	
-		{"id": 1, "titre": "Service aux entreprises\nde l'ÉMAM", "graphOpen": "NAN",
-				"mission": "L’ÉMAM a pour mission de former des travailleurs compétents qui répondent aux standards de l’industrie de l’aérospatiale au Québec. Grâce à un véritable partenariat, les organismes, associations et entreprises du milieu de l’aérospatiale contribuent à l’atteinte de cet objectif.<br><br>\
-								Programmes de formation continue et sur mesure, conçus en fonction des besoins des entreprises.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de programmes de formation continue :</span><br><br>\
-							\u27E9 Conduite sécuritaire de chariots élévateurs<br>\
-							\u27E9 Inspection en usinage<br>\
-							\u27E9 Fabrication de pièces en matériaux composites<br>\
-							\u27E9 Opération sur machines-outils à commande numérique<br>\
-							\u27E9 Opération d’équipements spécialisés en tôlerie de précision<br>\
-							\u27E9 Rembourrage d’aéronefs\
-							<br><br><span style=\"font-weight: bold;\">Exemples de services offerts aux entreprises :</span><br><br>\
-							\u27E9 Conception et révision de matériel pédagogique<br>\
-							\u27E9 Évaluation de candidatures pour des emplois<br>\
-							\u27E9 Formation de nouveaux employés, de formateurs ou d’appoint pour des ouvriers spécialisés<br>\
-							\u27E9 Reconnaissances des acquis extrascolaires en entreprises",
-				"lien":  "http://ecole-metiers-aerospatiale.csdm.ca" },
+				{"id": 1, "titre": "Service aux entreprises\nde l'ÉMAM", "graphOpen": "NAN",
+				"mission": "Le Service aux entreprises de l’ÉMAM offre des formations sur mesure à temps plein ou temps partiel en français ou en anglais, le jour, le soir ou la fin de semaine dans l’École des métiers de l’aérospatiale de Montréal ou directement en entreprise.<br><br>\
+						Avec des programmes développés en partenariat avec l’industrie, des installations modernes et des équipements à la fine pointe des nouvelles technologies, les formations sur mesure en aérospatiale propulseront votre main d’œuvre à un niveau supérieur d’efficacité et de productivité !<br><br>\ Mission : <br>\
+							\u27E9 Participer au développement de la main-d’œuvre<br>\
+							\u27E9 Former des travailleurs compétents et maintenir leurs compétences à jour<br>\
+							\u27E9 Améliorer la performance des organisations<br>\
+							\u27E9 Former pour motiver et conserver les employés<br>\
+							\u27E9 Soutenir les changements organisationnels<br><br>\
+							<br><br>",
+				"activite": "<span style=\"font-weight: bold;\">Exemples de réalisations pour les entreprises :</span><br><br>\
+							\u27E9 Formation sur mesure<br>\
+							\u27E9 Développement de test de compétence : embauche, sélection, promotion, etc. <br>\
+							\u27E9 Développement de documents de formation<br>\
+							\u27E9 Accès à des équipements spécialisés<br>\
+							\u27E9 Reconnaissance des acquis et des compétences (RAC) <br>\
+							\u27E9 Formation pour les travailleurs en emploi<br><br>\
+							Général & ESS<br>\
+							\u27E9 Lecture de plan<br>\
+							\u27E9 Procédure et documentation<br>\
+							\u27E9 Facteurs humains<br>\
+							\u27E9 Équipement de protection individuelle<br>\
+							\u27E9 Chariots élévateurs, plateforme élévatrice & nacelle<br>\
+							\u27E9 Pont roulant<br>\
+							\u27E9 Protection des chutes<br>\
+							\u27E9 Cadenassage<br>\
+							\u27E9 SIMDUT en ligne<br><br>\
+							Montage de structure<br>\
+							\u27E9 Usinage manuel<br>\
+							\u27E9 Installation de rivets solides & aveugles<br>\
+							\u27E9 Installation d’attaches structurales (hi-lite)<br>\
+							\u27E9 Couple de serrage et système de blocage<br>\
+							\u27E9 Installation de roulements et de coussinets<br>\
+							\u27E9 Mise à la masse<br>\
+							\u27E9 Utilisation de gabarits<br>\
+							\u27E9 Assemblage, inspection et réparation de composants<br><br>\
+							Montage mécanique<br>\
+							\u27E9 Usinage manuel<br>\
+							\u27E9 Couple de serrage et système de blocage<br>\
+							\u27E9 Installation de roulements et de coussinets<br>\
+							\u27E9 Mise à la masse<br>\
+							\u27E9 Équilibrage et balancement<br>\
+							\u27E9 Systèmes primaire et secondaire (moteur)<br>\
+							\u27E9 Boîte d’engrenage<br>\
+							\u27E9 Hydraulique et pneumatique<br>\
+							\u27E9 Assemblage, inspection et réparation de composants<br><br>\
+							Assemblage de systèmes électriques et électroniques<br>\
+							\u27E9 Assemblage, inspection et réparation de composants électroniques et/ou électriques (bornes et terminaux, trous traversants, montage en surface et entretien d’appareils) <br>\
+							\u27E9 Électricité de base<br>\
+							\u27E9 Sertissage, fabrication et installation de faisceaux dans une structure<br>\
+							\u27E9 Procédés de brasage tendre de cartes à circuits imprimés<br>\
+							\u27E9 Normes d’acceptabilité en assemblage de fils câbles et harnais électriques<br>\
+							\u27E9 Mise à la masse, batteries d’accumulateurs acide-plomb et NI/CAD<br>\
+							\u27E9 Formations et certifications IPC : IPC J-STD-001, IPC-7711/7721, IPC/WHMA-A-620, IPC-A-610<br><br>\
+							Techniques d’usinage<br>\
+							\u27E9 Mastercam<br>\
+							\u27E9 Dessin de croquis<br>\
+							\u27E9 Mathématiques liées à l’usinage (conventionnel commande numérique) <br>\
+							\u27E9 Programmation manuelle de machine<br>\
+							\u27E9 Inspection CMM<br>\
+							\u27E9 Tolérances géométriques<br>\
+							\u27E9 Traitement thermique<br>\
+							\u27E9 Rectification plane & cylindrique<br>\
+							\u27E9 Usinage (4 axes)<br><br>\
+							Tôlerie de précision<br>\
+							\u27E9 Mathématiques liées à la tôlerie<br>\
+							\u27E9 Production de pièces pliées, roulées et embouties<br>\
+							\u27E9 Programmation AP100 US (Amada)<br>\
+							\u27E9 Poinçonneuse à commande numérique",
+				"lien":  "http://ecole-metiers-aerospatiale.csdm.ca/services/service-entreprises/" },
 				
 		{"id": 2, "titre": "Centre aérospatial de\nperfectionnement (CAPE)", "graphOpen": "NAN",
 				"mission": "L’Université McGill et l’École de technologie supérieure (ÉTS) se sont associées pour offrir un nouveau programme conjoint de perfectionnement aux ingénieurs et aux professionnels du domaine de l’aérospatiale. Le CAPE vise à réunir les meilleurs spécialistes et praticiens afin d’offrir des cours, des ateliers et des séminaires de calibre mondial traitant de sujets pertinents à l’industrie aérospatiale.<br><br>",
