@@ -206,14 +206,14 @@ graphFCEP = function () { return {
 				"lien":  "http://www.cftc.qc.ca" },
 				
 		{"id": 8, "titre": "Centre de développement des\ncomposites du Québec (CDCQ)\ndu Cégep de Saint-Jérôme", "graphOpen": "NAN",
-				"mission": "Le Centre de développement des composites du Québec (CDCQ) du Cégep Saint-Jérôme contribue au développement technologique et économique du Québec et du Canada. Le CDCQ est composé de professionnels provenant de l’industrie des composites dont le seul but est de fournir l’assistance technique nécessaire aux besoins de ses partenaires.<br><br>",
+				"mission": "Le Centre de développement des composites du Québec (CDCQ) aide les entreprises dans la chaîne de valeur des composites avec des services de recherche appliquée, d’aide technique et de diffusion de l’information, leur permettant d'améliorer la qualité et la performance de leurs produits.<br><br>\ Pour la réalisation de projets, le centre bénéficie d'un atelier multifonctionnel avec des équipements couvrant la plupart des procédés industriels. Un laboratoire d’essais de caractérisation des matériaux à la fine pointe de la technologie et détenant l’accréditation ISO 17025, complète l’offre de service. Le CDCQ est affilié au Collège de Saint-Jérôme (cstj.qc.ca). Ensemble avec le service de Formation continue, Service aux entreprises et International (fcsei.cstj.qc.ca), ils offrent des services de formation sur mesure à l’industrie en plus d’assurer la formation de techniciens en composites, notamment dans le secteur aéronautique.<br><br>\ Les experts du CDCQ, ingénieurs et techniciens, ont les compétences et l'expertise pour fournir des solutions innovantes aux entrepreneurs afin qu'ils puissent améliorer leurs compétences et prospérer dans un environnement concurrentiel ici, au Québec, au Canada et ailleurs dans le monde. Le centre offre une gamme de services pour exploiter le plein potentiel des nouvelles technologies avec pour objectif ultime de transférer la technologie à l’industrie tout en leur cédant la propriété intellectuelle.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de services offerts :</span><br><br>\
-							\u27E9 Recherche de matériaux, de procédés ou d’équipements<br>\
+							\u27E9 Recherche sur les matériaux, procédés ou équipements<br>\
+							\u27E9 Recherche de solutions en développement durable (recyclage et valorisation des composites)<br>\
 							\u27E9 Développement et démarrage de procédés<br>\
-							\u27E9 Essais de moulage<br>\
-							\u27E9 Caractérisation de matériaux ou de produits<br>\
-							\u27E9 Prototypage<br>\
-							\u27E9 Formation sur mesure en collaboration avec le département de Formation continue et Service aux entreprises du Cégep de Saint-Jérôme.",
+							\u27E9 Essais de moulage, mise en forme et prototypage avec imprimante 3D<br>\
+							\u27E9 Caractérisation de matériaux ou de produits (ISO 17025)<br>\
+							\u27E9 Formation en matériaux composites et aéronautique (sur mesure en entreprises, attestation d'études collégiales et enseignement régulier)",
 				"lien":  "http://www.cdcq.qc.ca" },
 						
 		{"id": 9, "titre": "Centre d'excellence sur\nles drones (CED)", "graphOpen": "NAN",
