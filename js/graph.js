@@ -198,7 +198,7 @@ graphFCEP = function () { return {
 				"lien":  "http://www.cqfa.ca" },
 										
 		{"id": 7, "titre": "Centre de formation\nen transport de\nCharlesbourg (CFTC)", "graphOpen": "NAN",
-				"mission": "Le CFTC s’est donné pour mission de former et de qualifier une main-d’œuvre professionnelle qui répond aux besoins de l’industrie du transport.<br><br>",
+				"mission": "Le Centre de formation en transport de Charlebourg (CFTC) de la Commission scolaire des Premières-Seigneuries s’est donné pour mission de former et de qualifier une main-d’œuvre professionnelle qui répond aux besoins de l’industrie du transport.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Formation aérospatiale donnée :</span><br><br>\
 							\u27E9 Régulation de vol (DEP)\
 							<br><br><span style=\"font-weight: bold;\">Formation continue :</span><br><br>\
@@ -1399,7 +1399,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
 				"lien":  "http://www.lemergence.qc.ca" },
 						
 		{"id": 4, "titre": "Centre de formation en\ntransport de Charlesbourg\n(CFTC)", "graphOpen": "NAN",
-				"mission": "Le CFTC s’est donné pour mission de former et de qualifier une main-d’œuvre professionnelle qui répond aux besoins de l’industrie du transport.<br><br>",
+				"mission": "Le Centre de formation en transport de Charlebourg (CFTC) de la Commission scolaire des Premières-Seigneuries s’est donné pour mission de former et de qualifier une main-d’œuvre professionnelle qui répond aux besoins de l’industrie du transport.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Formation aérospatiale donnée :</span><br><br>\
  							\u27E9 Régulation de vol (DEP)",
 				"lien":  "http://www.cftc.qc.ca" },
