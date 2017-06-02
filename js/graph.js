@@ -527,7 +527,7 @@ graphFPLR = function () { return {
  							\u27E9 Métrologie<br>\
  							\u27E9 Opérations aériennes<br>\
  							\u27E9 Fabrication métallique et robotisation",
-				"lien":  "http://www.cegepmontpetit.ca/cta" },
+				"lien":  "http://www.aerospatiale.org" },
 						
 		{"id": 15, "titre": "Groupement Aéronautique de\nRecherche et de Développement\nen eNvironnement (GARDN)", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Afin d’augmenter la compétitivité aéronautique canadienne, GARDN soutient financièrement des projets collaboratifs qui pourront réduire l’empreinte environnementale des prochaines générations d’avions, de moteurs et de systèmes avioniques développés au Canada. GARDN accompagne ainsi ses membres du milieu académique et industriel dans la concrétisation de leur idée innovante.<br><br>",
