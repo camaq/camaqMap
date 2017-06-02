@@ -475,11 +475,11 @@ graphFPLR = function () { return {
 		{"id": 8, "titre": "Systèmes aéronautiques\nd'avant-garde pour\nl'environnement (SA²GE)", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Le Regroupement pour le développement de l’avion plus écologique est un organisme à but non lucratif qui a pour but l’administration du projet mobilisateur de l’avion plus écologique renommé SA²GE pour Systèmes Aéronautiques d’Avant-Garde pour l’Environnement. Comme son nom l’indique, SA²GE vise le développement de pièces et systèmes plus respectueux de l’environnement, dans le cadre de la lutte contre les changements climatiques et des nouvelles réglementations environnementales.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de sous-projets de recherche :</span><br><br>\
- 							\u27E9 Avionique modulaire intégrée pour les systèmes critiques<br>\
- 							\u27E9 Avionique intégrée pour les applications de poste de pilotage<br>\
- 							\u27E9 Compresseur de prochaine génération<br>\
- 							\u27E9 Structure de fuselage d’aéronefs en matériaux composites<br>\
- 							\u27E9 Train d’atterrissage de l’avenir",
+ 							\u27E9 Fuselage avancé respectueux de l’environnements<br>\
+ 							\u27E9 Solutions de formation synthétique et virtuelle pour réduire les émissions de gaz à effet de serre<br>\
+ 							\u27E9 Avionique modulaire intégrée pour éconavigation<br>\
+ 							\u27E9 Modules photoniques compacts pour systèmes de communication et de navigation aéroportés<br>\
+ 							\u27E9 Contrôleur critique intégré multi-application",
 				"lien":  "http://www.sa2ge.org" },
 						
 		{"id": 9, "titre": "QuébecInnove", "graphOpen": "NAN",
