@@ -227,7 +227,7 @@ graphFCEP = function () { return {
 				
 		{"id": 10, "titre": "Centres de formation dans\nles entreprises", "graphOpen": "NAN",
 				"mission": " ",
-				"activite": "<span style=\"font-weight: bold;\">Exemples d’entreprises qui ont un centre de formation à l’interne pouvant également offrir de la formation à un public externe :</span><br><br>\
+				"activite": "<span style=\"font-weight: bold;\">Exemples d’entreprises qui ont un centre de formation à l’interne :</span><br><br>\
 							\u27E9 Bombardier<br>\
 							\u27E9 CAE<br>\
 							\u27E9 Pratt & Whitney Canada<br>\
