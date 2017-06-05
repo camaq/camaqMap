@@ -435,11 +435,12 @@ graphFPLR = function () { return {
 				"lien":  "http://www.cefrio.qc.ca" },
 						
 		{"id": 4, "titre": "Fonds de recherche du\nQuébec Nature et\ntechnologies (FRQNT) ", "graphOpen": "NAN", "symb": ["S"],
-				"mission": "Le FRQNT a pour mission de promouvoir et d’aider financièrement la recherche dans les domaines des sciences naturelles, des sciences mathématiques et du génie.<br><br>",
+				"mission": "Le FRQNT a pour mission de soutenir financièrement et promouvoir la recherche universitaire et collégiale, la formation de personnel hautement qualifié, la diffusion de connaissances dans les domaines des sciences naturelles, des sciences mathématiques et du génie et ainsi contribuer au développement scientifique, à l’innovation et au développement durable du Québec.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Bourses d’études et de recherche aux étudiants universitaires<br>\
- 							\u27E9 Programmes de subvention des recherches<br>\
- 							\u27E9 Programmes de recherche en partenariat",
+ 							\u27E9 Bourses et stages aux étudiants des établissements de l’enseignement supérieur<br>\
+ 							\u27E9 Subventions de soutien de carrières en recherche pour les chercheurs universitaires et de collège<br>\
+							\u27E9 Subventions de recherche : équipes, projets en partenariat et collaborations internationales<br>\
+ 							\u27E9 Subventions de regroupements stratégiques",
 				"lien":  "http://www.frqnt.gouv.qc.ca" },
 						
 		{"id": 5, "titre": "Infrastructure en recherche\net développement du\nQuébec (IRDQ)", "graphOpen": "NAN", "symb": ["S"],
