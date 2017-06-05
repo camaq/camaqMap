@@ -843,7 +843,6 @@ graphProvincialODS = function () { return {
 				"mission": "Le CAQ aspire à représenter, regrouper et fournir des services efficaces aux membres à travers le Québec afin de contribuer à la viabilité, au développement et à la sécurité des aéroports.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de projets :</span><br><br>\
  							\u27E9 Analyser, commenter et diffuser la règlementation aérienne (sécurité et sûreté)<br>\
-							\u27E9 Organiser la formation règlementaire<br>\
 							\u27E9 Organiser des séances de formations pour ces membres afin de les soutenir dans l’atteinte de leurs objectifs réglementaires<br>\
 							\u27E9 Offrir le soutien et les conseils techniques<br>\
 							\u27E9 Favoriser le maillage entre les différents intervenants aéroportuaires<br>\
