@@ -842,10 +842,13 @@ graphProvincialODS = function () { return {
 		{"id": 4, "titre": "Conseil des aéroports du\nQuébec (CAQ)", "graphOpen": "NAN",
 				"mission": "Le CAQ aspire à représenter, regrouper et fournir des services efficaces aux membres à travers le Québec afin de contribuer à la viabilité, au développement et à la sécurité des aéroports.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de projets :</span><br><br>\
- 							\u27E9 Financement des projets des infrastructures des petits aéroports<br>\
- 							\u27E9 Programme d’aide aux immobilisations aéroportuaires (PAIA)<br>\
- 							\u27E9 Système de gestion de la sécurité (SGS)<br>\
- 							\u27E9 Projet de règlement sur la sûreté des aéroports ",
+ 							\u27E9 Analyser, commenter et diffuser la règlementation aérienne (sécurité et sûreté)<br>\
+							\u27E9 Organiser la formation règlementaire<br>\
+							\u27E9 Organiser des séances de formations pour ces membres afin de les soutenir dans l’atteinte de leurs objectifs réglementaires<br>\
+							\u27E9 Offrir le soutien et les conseils techniques<br>\
+							\u27E9 Favoriser le maillage entre les différents intervenants aéroportuaires<br>\
+							\u27E9 Maintenir et améliorer le financement des projets d’infrastructures<br>\
+ 							\u27E9 Participer aux comités dans le domaine aéroportuaire",
 				"lien":  "http://www.caquebec.ca" },		
 		
 		{"id": 5, "titre": "Conseil du patronat\ndu Québec (CPQ)", "graphOpen": "NAN",
