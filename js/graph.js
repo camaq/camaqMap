@@ -641,16 +641,21 @@ graphNationalODS = function () { return {
 				"lien":  "http://www.cbaa-acaa.ca" },		
 		
 		{"id": 4, "titre": "Conseil canadien de\nl'aviation et de\nl'aérospatiale (CCAA)", "graphOpen": "NAN",
-				"mission": "Le Conseil canadien de l'aviation et de l'aérospatiale (CCAA) se voue à assurer que l'industrie canadienne de l'aéronautique et de l'aérospatiale dispose de suffisamment de travailleurs ayant les compétences requises pour subvenir aux besoins de l'industrie.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de formations offertes :</span><br><br>\
- 							\u27E9 Règlements de l'aviation canadienne<br>\
- 							\u27E9 acteurs humains<br>\
- 							\u27E9 Gestion des risques liés à la fatigue<br>\
+				"mission": "Le Conseil canadien de l'aviation et de l'aérospatiale (CCAA) se voue à assurer que l'industrie canadienne de l'aéronautique et de l'aérospatiale dispose de suffisamment de travailleurs ayant les compétences requises pour subvenir aux besoins de l'industrie. Tous les outils et cours du CCAA visant le perfectionnement sont étroitement liés à des normes professionnelles précises relatives à l'accréditation, ou ils répondent à des exigences réglementaires.<br><br>",
+				"activite": "<span style=\"font-weight: bold;\">Services offerts (en français et en anglais) :</span><br><br>\
+ 							Ateliers en ligne :<br>\
+							\u27E9 Formation en Facteurs Humains<br>\
+ 							\u27E9 Formation sur les règlements de l’aviation canadien (CARs)<br>\
+ 							\u27E9 Formation WHMIS (en anglais seulement)<br>\
+ 							\u27E9 Formation pour gestionnaire en l’aviation et l’aéronautique<br><br>\
+							Ateliers :<br>\
+ 							\u27E9 Auditeurs/Vérificateurs des systèmes qualité<br>\
+ 							\u27E9 Gestionnaire de l’assurance qualité<br>\
  							\u27E9 Plans de mesures correctives<br>\
- 							\u27E9 Travailleur côté piste, sûreté et sécurité<br>\
- 							\u27E9 Ressources humaines et solutions de formation pour les petits aéroports<br>\
- 							\u27E9 Le dégivrage, l’antigivrage et la contamination de surfaces des aéronefs",
-				"lien":  "http://www.avaerocouncil.ca" },
+							\u27E9 Autres (http://www.avaerocouncil.ca/en/skill-development-training-products-and-courses/skill-development-training-products-and-courses-0)<br><br>\
+		 					Certification & normes professionnelles : :<br>\
+							Le CCAA est le seul organisme d’accréditation national qui représente la main-d’œuvre de l’industrie de l’aviation et de l’aéronautique. En collaboration avec divers experts en matières spécialisées afin de documenter les tâches et sous-tâches effectuées par les gens de métier dans l’exécution de leurs fonctions, le CCAA a élaboré 29 Normes professionnelles (http://www.avaerocouncil.ca/fr/certification/normes-professionnelles). Cette analyse énumère les connaissances requises pour exécuter chacun des métiers. 13 de ces normes sont reconnues par Transports Canada (cf. Avis de navigabilité C009) pour le personnel qui travaillent dans un organisme de maintenance agréé (OMA).",			
+		  		"lien":  "http://www.avaerocouncil.ca" },
 						
 		{"id": -1, "titre": "Organismes de soutien", "graphOpen": "graphODS"},
 		{"id": -2, "titre": "Accueil", "graphOpen": "graphRoot"}
