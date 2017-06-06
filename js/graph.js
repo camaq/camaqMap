@@ -653,8 +653,8 @@ graphNationalODS = function () { return {
  							\u27E9 Gestionnaire de l’assurance qualité<br>\
  							\u27E9 Plans de mesures correctives<br>\
 							\u27E9 Autres (http://www.avaerocouncil.ca/en/skill-development-training-products-and-courses/skill-development-training-products-and-courses-0)<br><br>\
-		 					Certification & normes professionnelles : :<br>\
-							Le CCAA est le seul organisme d’accréditation national qui représente la main-d’œuvre de l’industrie de l’aviation et de l’aéronautique. En collaboration avec divers experts en matières spécialisées afin de documenter les tâches et sous-tâches effectuées par les gens de métier dans l’exécution de leurs fonctions, le CCAA a élaboré 29 Normes professionnelles (http://www.avaerocouncil.ca/fr/certification/normes-professionnelles). Cette analyse énumère les connaissances requises pour exécuter chacun des métiers. 13 de ces normes sont reconnues par Transports Canada (cf. Avis de navigabilité C009) pour le personnel qui travaillent dans un organisme de maintenance agréé (OMA).",			
+		 					Certification & normes professionnelles :<br>\
+							Le CCAA est le seul organisme d’accréditation national qui représente la main-d’œuvre de l’industrie de l’aviation et de l’aéronautique. En collaboration avec divers experts en matières spécialisées afin de documenter les tâches et sous-tâches effectuées par les gens de métier dans l’exécution de leurs fonctions, le CCAA a élaboré 29 normes professionnelles (http://www.avaerocouncil.ca/fr/certification/normes-professionnelles). Cette analyse énumère les connaissances requises pour exécuter chacun des métiers. 13 de ces normes sont reconnues par Transports Canada (cf. Avis de navigabilité C009) pour le personnel qui travaillent dans un organisme de maintenance agréé (OMA).",			
 		  		"lien":  "http://www.avaerocouncil.ca" },
 						
 		{"id": -1, "titre": "Organismes de soutien", "graphOpen": "graphODS"},
