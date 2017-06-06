@@ -969,7 +969,7 @@ graphProvincial = function () { return {
 						
 		{"id": 8, "titre": "Emploi-Québec", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Emploi-Québec offre différentes mesures d’aide à l’emploi destinées aux individus et aux entreprises, dont du soutien à la formation, afin de favoriser l’intégration et le maintien en emploi.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\"></span><br><br>\
+				"activite": "<span style=\"font-weight: bold;\">test</span><br><br>\
  							\u27E9 Pour trouver le centre local d’emploi ou le bureau de Services Québec le plus près de chez vous : www.mess.gouv.qc.ca/services-en-ligne/centres-locaux-emploi/localisateur/services.asp",
 				"lien":  "http://www.emploiquebec.gouv.qc.ca" },
 				
