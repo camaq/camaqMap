@@ -672,7 +672,7 @@ graphRégionalODS = function () { return {
 		{"id": 1, "titre": "Montréal International", "graphOpen": "NAN",
 				"mission": "Montréal International agit comme moteur économique du Grand Montréal pour attirer de la richesse en provenance de l’étranger tout en accélérant la réussite de ses partenaires et de ses clients.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Conseils et soutien stratégique, sur les projets d'affaires ou les secteurs d'activités<br>\
+ 							\u27E9 Soutien stratégique, expertise sectorielle et données économiques pour faciliter vos projets d’affaires<br>\
  							\u27E9 Accompagnement dans les processus d'embauche à l'étranger<br>\
  							\u27E9 Soutien et accompagnement face aux opportunités de financement gouvernementales",
 				"lien":  "http://www.montrealinternational.com" },
