@@ -688,11 +688,11 @@ graphRégionalODS = function () { return {
 				"lien":  "http://www.emploinexus.com" },		
 		
 		{"id": 3, "titre": "Conseil emploi métropole\n(CEM)", "graphOpen": "NAN",
-				"mission": "Le CEM vise à diffuser de l'information, créer et diffuser des outils de recrutement, diriger des travaux de recherche et sensibiliser les entreprises.<br><br>",
+				"mission": "Le CEM est une table d’analyse, de réflexion et d’action qui met de l’avant l’approche métropolitaine dans la recherche de solutions innovantes aux problématiques du marché du travail de la grande région de Montréal. Plus spécifiquement, ces problématiques touchent l’intégration professionnelle des nouveaux arrivants, l’adéquation entre la formation et l’emploi ainsi que les compétences du futur.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples d'outils proposés :</span><br><br>\
- 							\u27E9 Recrutez vos talents par les médias sociaux<br>\
- 							\u27E9 Avantages de l'embauche de travailleurs immigrants<br>\
- 							\u27E9 Guide pratique pour les candidats<br>\
+ 							\u27E9 Diagnostics sectoriels d’adéquation formation-emploi<br>\
+ 							\u27E9 Outil de recrutement par les médias sociaux<br>\
+ 							\u27E9 Aide à la gestion de la diversité<br>\
  							\u27E9 Bulletin sur le marché du travail<br>\
  							\u27E9 Enquête sur les besoins de main-d’œuvre",
 				"lien":  "http://www.emploi-metropole.org" },		
