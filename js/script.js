@@ -453,13 +453,13 @@ var graphFunction = function (graph) {
 							document.getElementById("buttonsZoom").style.display = "none";
 						}
 					reGraph();
-					document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Étendre";
+					document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Cartographie complète";
 					document.getElementById("stablT").checked = false;
 					document.getElementById("stablT").disabled = false;
 					
-					if(document.getElementById("extend").innerHTML.indexOf("Étendre") !== -1){
-						document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Étendre";
-						if(document.getElementById("extend").innerHTML.indexOf("Étendre") === -1){document.getElementById("map").remove()};
+					if(document.getElementById("extend").innerHTML.indexOf("Cartographie complète") !== -1){
+						document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Cartographie complète";
+						if(document.getElementById("extend").innerHTML.indexOf("Cartographie complète") === -1){document.getElementById("map").remove()};
 						d3.select("#carto").style('opacity', 1);
 						
 						if(document.getElementById("hAriane").innerHTML.indexOf("Masquer") !== -1){
@@ -652,7 +652,7 @@ window.onbeforeunload = function() {
 
 //click for show/hide file d'ariane
 document.getElementById("hAriane").onclick = function() {
-	if(document.getElementById("extend").innerHTML.indexOf("Étendre") === -1){return;}
+	if(document.getElementById("extend").innerHTML.indexOf("Cartographie complète") === -1){return;}
 	if (!document.getElementById("breadcrumb").style.display){
 			document.getElementById("breadcrumb").style.display =  "none";
 			document.getElementById("hAriane").innerHTML = "&#x27e9; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Afficher le fil d'Ariane";
@@ -1047,7 +1047,7 @@ document.getElementById("extend").onclick = function() {
 		return
 	};
 		
-	if(document.getElementById("extend").innerHTML.indexOf("Étendre") !== -1){
+	if(document.getElementById("extend").innerHTML.indexOf("Cartographie complète") !== -1){
 		document.getElementById("extend").innerHTML = "&#x21ce; &nbsp;&nbsp;&nbsp;&nbsp; Rétrécir";
 		
 		document.getElementById("stablT").disabled = true;
@@ -1086,7 +1086,7 @@ document.getElementById("extend").onclick = function() {
 		})();
 
 	}else{
-		document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Étendre";
+		document.getElementById("extend").innerHTML = "&#x21d4; &nbsp;&nbsp;&nbsp;&nbsp; Cartographie complète";
 		jQuery("#map").remove();
 		d3.select("#carto").style('opacity', 1);
 		
