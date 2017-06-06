@@ -1127,23 +1127,9 @@ graphRégional = function () { return {
 		{"id": 0, "titre": "Régional", "logo": "NAN", "graphOpen": "NAN"},
 		
 		{"id": 1, "titre": "Bureaux régionaux\nd'Emploi-Québec / Centres\nlocaux d’emploi (CLE) ", "graphOpen": "NAN", "symb": ["S", "s"],
-				"mission": "Emploi-Québec a pour mission de contribuer à développer l’emploi et la main-d’œuvre ainsi qu’à lutter contre le chômage, l’exclusion et la pauvreté dans une perspective de développement économique et social.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Programme d’aide à la création d’emploi<br>\
- 							\u27E9 Programmes de développement de la main-d’œuvre<br>\
- 							\u27E9 Aide financière à l’embauche<br>\
- 							\u27E9 Subvention salariale<br>\
- 							\u27E9 Projet IPOP pour l’intégration en emploi de personnes formées à l’étranger référées par un ordre professionnel<br>\
- 							\u27E9 Aide aux personnes handicapées<br>\
- 							\u27E9 Découvrir un métier, une profession \uD83C\uDF93<br>\
- 							\u27E9 Formation de la main-d’œuvre<br>\
- 							\u27E9 Programme d'aide à l'intégration des immigrants et des minorités visibles en emploi (PRIIME)<br>\
- 							\u27E9 Programme de soutien pour les travailleurs âgés<br>\
- 							\u27E9 Programme de soutien pour les travailleurs licenciés collectivement<br>\
- 							\u27E9 Aménagement et réduction du temps de travail<br>\
- 							\u27E9 Stabilisation de l’emploi<br>\
- 							\u27E9 Soutien en gestion ou pour la mise sur pied d’un service de ressources humaines.",
-				"lien":  "http://www.emploiquebec.gouv.qc.ca" },
+				"mission": "Emploi-Québec offre différentes mesures d’aide à l’emploi destinées aux individus et aux entreprises, dont du soutien à la formation, afin de favoriser l’intégration et le maintien en emploi.<br><br>",
+				"activite": "<span style=\"font-weight: bold;\"> </span><br><br>",
+				"lien":  "www.mess.gouv.qc.ca/services-en-ligne/centres-locaux-emploi/localisateur/services.asp" },
 						
 		{"id": -1, "titre": "Organismes pour le\nsoutien au financement\nde la formation", "graphOpen": "graphOPLSAFDLF"},
 		{"id": -2, "titre": "Accueil", "graphOpen": "graphRoot"}
