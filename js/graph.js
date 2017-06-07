@@ -1206,19 +1206,22 @@ graphUniversitaire = function () { return {
 				"lien":  "https://www.mcgill.ca" },
 				
 		{"id": 4, "titre": "École de technologie\nsupérieure (ÉTS)", "graphOpen": "NAN", "symb": ["A", "P", "D"],
-				"mission": "L’École de technologie supérieure est une constituante du réseau de l’Université du Québec. Spécialisée dans l’enseignement et la recherche appliqués en génie et le transfert technologique, elle forme des ingénieurs et des chercheurs reconnus pour leur approche pratique et innovatrice. Depuis sa création, elle entretient un partenariat unique avec le milieu des affaires et l’industrie, tant avec les grandes entreprises que les PME.<br><br>\
-								Par sa mission particulière axée sur le génie appliqué et ses liens étroits avec les organisations, l’ÉTS se distingue nettement des établissements universitaires québécois. Elle est de plus la seule école d’ingénierie au Québec qui offre des programmes de baccalauréat en génie créés spécifiquement pour les diplômés de niveau collégial technique désirant se doter d’une formation universitaire.<br><br>",
+				"mission": "L’École de technologie supérieure est une constituante du réseau de l’Université du Québec. Spécialisée dans l’enseignement et la recherche appliqués en génie et le transfert technologique, elle forme des ingénieurs et des chercheurs reconnus pour leur approche pratique et innovatrice. Depuis sa création, elle entretient un partenariat unique avec le milieu des affaires et l’industrie, tant avec les grandes entreprises que les PME.<br><br> Par sa mission particulière axée sur le génie appliqué et ses liens étroits avec les organisations, l’ÉTS se distingue nettement des établissements universitaires québécois. Elle est de plus la seule école d’ingénierie au Québec qui offre des programmes de baccalauréat en génie créés spécifiquement pour les diplômés de niveau collégial technique désirant se doter d’une formation universitaire.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
 							Baccalauréats :<br><br>\
  							\u27E9 Génie mécanique (concentration aérospatiale)<br>\
  							\u27E9 Génie électrique (concentration systèmes embarqués pour l’aérospatiale)<br>\
  							\u27E9 Génie de la production automatisée (concentration production aéronautique)<br><br>\
+							\u27E9 Génie logiciel<br><br>\
+							\u27E9 Génie des technologies de l’information<br><br>\
 							Maîtrises :<br><br>\
  							\u27E9 Génie avec concentration aérospatiale – avec mémoire<br>\
  							\u27E9 Génie aérospatial – avec projet (Programme conjoint) \u24C5<br><br>\
+							\u27E9 Génie, concentration en gestion de l’innovation – avec mémoire ou avec projet<br>\
+							\u27E9 Génie des technologies de l’information – avec mémoire ou avec projet<br>\
 							Autres :<br><br>\
  							\u27E9 Certificat en gestion et assurance de la qualité<br>\
- 							\u27E9 DESS en génie de la production automatisée : systèmes intelligents<br><br>\
+ 							\u27E9 DESS en génie de la production automatisée : systèmes intelligents ou intégration et automatisation des systèmes<br><br>\
  							\u27E9 Programme AeroCREATE  \u24B6",
 				"lien":  "http://www.etsmtl.ca/" },
 						
