@@ -453,9 +453,12 @@ graphFPLR = function () { return {
 				"lien":  "http://www.irdq.ca" },
 						
 		{"id": 6, "titre": "Centre de recherche\nindustrielle du Québec (CRIQ)", "graphOpen": "NAN",
-				"mission": "Le CRIQ vise à contribuer à la compétitivité des secteurs industriels québécois et à la croissance des organismes en soutenant l’innovation, la productivité et les exportations.<br><br>",
+				"mission": "Le CRIQ a pour mission de contribuer à la compétitivité des secteurs industriels québécois et à la croissance des organismes en soutenant l’innovation, la productivité et les exportations.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
- 							\u27E9 Réseau Québec-3D<br>\
+							\u27E9 Services intégrés en fabrication additive (impression 3D; aide à la décision et à la conception; optimisation topologique)<br>\
+							\u27E9 Services en transformation numérique des entreprises (Industrie 4.0)<br>\
+							\u27E9 Vaste gamme d’essais reliés à la norme DO-160<br>\
+							\u27E9 Réseau Québec-3D<br>\
  							\u27E9 Diagnostic de productivité<br>\
  							\u27E9 Conception d’équipement sur mesure<br>\
  							\u27E9 Technologie de contrôle de la qualité",
