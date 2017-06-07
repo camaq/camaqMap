@@ -367,13 +367,13 @@ graphAéroFormation = function () { return {
 				"lien":  "http://ecole-metiers-aerospatiale.csdm.ca/services/service-entreprises/" },
 				
 		{"id": 2, "titre": "Centre aérospatial de\nperfectionnement (CAPE)", "graphOpen": "NAN",
-				"mission": "L’Université McGill et l’École de technologie supérieure (ÉTS) se sont associées pour offrir un nouveau programme conjoint de perfectionnement aux ingénieurs et aux professionnels du domaine de l’aérospatiale. Le CAPE vise à réunir les meilleurs spécialistes et praticiens afin d’offrir des cours, des ateliers et des séminaires de calibre mondial traitant de sujets pertinents à l’industrie aérospatiale.<br><br>",
+				"mission": "L’Université McGill et l’École de technologie supérieure (ÉTS) se sont associées pour offrir un programme conjoint de perfectionnement aux ingénieurs et aux professionnels du domaine aérospatial. Le CAPE réunit les meilleurs spécialistes et praticiens provenant de l’industrie et du monde académique pour offrir des cours, ateliers et séminaires traitant des nouvelles technologies et des stratégies de gestion qui influencent l’évolution du secteur aérospatial.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de formations données :</span><br><br>\
- 							\u27E9 Gestion de la chaîne d’approvisionnement aérospatiale<br>\
  							\u27E9 L’Aérospatiale 4.0 (Industrie 4.0)<br>\
- 							\u27E9 Matériaux et fabrication avancée en aérospatiale : série de conférences-réseautage<br>\
+							\u27E9 Matériaux et fabrication avancée en aérospatiale : robotique, composites, matériaux métalliques, DFX, fabrication intelligente, etc.<br>\
  							\u27E9 Meilleures pratiques de gestion pour l’industrie aérospatiale<br>\
- 							\u27E9 Règlementation et certification aéronautique",
+ 							\u27E9 Certification des aéronefs et systèmes<br>\
+ 							\u27E9 Gestion de la chaîne d’approvisionnement aérospatiale",
 				"lien":  "http://aeroets.etsmtl.ca" },
 						
 		{"id": 3, "titre": "Service aux entreprises de\nl'ÉNA", "graphOpen": "NAN",
