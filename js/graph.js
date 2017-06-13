@@ -1306,17 +1306,17 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
 						
 		{"id": 2, "titre": "École nationale\nd'aérotechnique (ÉNA)\n(Cégep Édouard-Montpetit)", "graphOpen": "NAN", "symb": ["E"],
 				"mission": "L’École nationale d’aérotechnique (ENA), un campus du cégep Édouard-Montpetit, est le chef de file en formation technique spécialisée en aéronautique au Québec. Elle est aussi la plus importante école en aéronautique en Amérique du Nord. Dotée d’équipements d’une valeur de plus de 85 millions de dollars, elle abrite, en plus de 36 aéronefs, de nombreux hangars et des laboratoires à la fine pointe de la technologie.  Ces installations sont consacrées tant à la formation initiale de la future main-d’œuvre spécialisée qu’au perfectionnement des employés des PME du Québec.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">DEC – Diplôme d’études collégiales:</span><br><br>\
+				"activite": "<span style=\"font-weight: bold;\">DEC – Diplôme d’études collégiales :</span><br>\
  							\u27E9 Techniques de maintenance d’aéronefs<br>\
- 							\u27E9 Aircraft Maintenance technology <br>\
+ 							\u27E9 Aircraft Maintenance technology<br>\
  							\u27E9 Techniques d’avionique<br>\
  							\u27E9 Techniques de génie aérospatial<br><br>\
- 							<span style=\"font-weight: bold;\">AEC – Attestation d’études collégiales:</span><br><br>\
+ 							<span style=\"font-weight: bold;\">AEC – Attestation d’études collégiales :</span><br>\
  							\u27E9 Éléments d’avionique (1 800 h)<br>\
  							\u27E9 Maintenance d’aéronefs (1 395 h)<br>\
  							\u27E9 Agent de méthode assemblages structuraux en aéronautique (540 h)<br>\
  							\u27E9 Modélisation et dessins CATIA (375 h)<br><br>\
- 							<span style=\"font-weight: bold;\">DEC-BAC (passerelle du collégial à l’université):</span><br><br>\
+ 							<span style=\"font-weight: bold;\">DEC-BAC (passerelle du collégial à l’université) :</span><br>\
  							\u27E9 Avionique (École Polytechnique)<br>\
  							\u27E9 Génie aérospatial (École Polytechnique)<br>\
  							\u27E9 Génie aérospatial (Université Concordia)",
