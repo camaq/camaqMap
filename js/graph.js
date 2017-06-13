@@ -1590,36 +1590,36 @@ var graphExtend =
 			<ol class='children'>\
 				<li class='children__item'><div class='nodeExt'>Universitaire</div>\
 					<ol class='children'>\
-						<li class='children__item'><div class='nodeExt'>Université Concordia</div></li>\
-						<li class='children__item'><div class='nodeExt'>Polytechnique Montréal</div></li>\
-						<li class='children__item'><div class='nodeExt'>Université McGill</div></li>\
 						<li class='children__item'><div class='nodeExt'>École de technologie supérieure (ÉTS)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Université Laval</div></li>\
+						<li class='children__item'><div class='nodeExt'>Polytechnique Montréal</div></li>\
+						<li class='children__item'><div class='nodeExt'>Université Concordia</div></li>\
 						<li class='children__item'><div class='nodeExt'>Université de Sherbrooke</div></li>\
 						<li class='children__item'><div class='nodeExt'>Université du Québec à Chicoutimi (UQAC)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Université du Québec à Trois-Rivières (UQTR)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Université Laval</div></li>\
+						<li class='children__item'><div class='nodeExt'>Université McGill</div></li>\
 					</ol>\
 				</li>\
 				\
 				<li class='children__item'><div class='nodeExt'>Collégial et technique</div>\
 					<ol class='children'>\
-						<li class='children__item'><div class='nodeExt'>Cégep de Trois-Rivières</div></li>\
-						<li class='children__item'><div class='nodeExt'>École nationale d'aérotechnique (ÉNA) (Cégep Édouard-Montpetit)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Cégep de Saint-Laurent</div></li>\
-						<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA) (Cégep de Chicoutimi)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Cégep du Vieux Montréal</div></li>\
 						<li class='children__item'><div class='nodeExt'>Cégep de Saint-Jérôme</div></li>\
+						<li class='children__item'><div class='nodeExt'>Cégep de Trois-Rivières</div></li>\
+						<li class='children__item'><div class='nodeExt'>Cégep du Vieux Montréal</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA) (Cégep de Chicoutimi)</div></li>\
+						<li class='children__item'><div class='nodeExt'>École nationale d'aérotechnique (ÉNA) (Cégep Édouard-Montpetit)</div></li>\
 					</ol>\
 				</li>\
 				\
 				<li class='children__item'><div class='nodeExt'>Secondaire et professionnel</div>\
 					<ol class='children'>\
-						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) des Moulins</div></li>\
-						<li class='children__item'><div class='nodeExt'>École des métiers de l'aérospatiale de Montréal (ÉMAM)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) l'Émergence</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre de formation en transport de Charlesbourg (CFTC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Centre intégré de mécanique, de métallurgie et d’électricité (CIMME)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) des Moulins</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) l'Émergence</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre de formation professionnelle (CFP) Pierre-Dupuy</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre intégré de mécanique, de métallurgie et d’électricité (CIMME)</div></li>\
+						<li class='children__item'><div class='nodeExt'>École des métiers de l'aérospatiale de Montréal (ÉMAM)</div></li>\
 					</ol>\
 				</li>\
 			</ol>\
