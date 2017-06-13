@@ -1608,6 +1608,7 @@ var graphExtend =
 						<li class='children__item'><div class='nodeExt'>Cégep de Saint-Laurent</div></li>\
 						<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA) (Cégep de Chicoutimi)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Cégep du Vieux Montréal</div></li>\
+						<li class='children__item'><div class='nodeExt'>Cégep de Saint-Jérôme</div></li>\
 					</ol>\
 				</li>\
 				\
