@@ -1666,21 +1666,21 @@ var graphExtend =
 		<li class='children__item'>\
 			<div class='nodeExt'>Formation par la recherche</div>\
 			<ol class='children'>\
-				<li class='children__item'><div class='nodeExt'>Consortium en aérospatiale pour la recherche et l’innovation au Canada (CARIC)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Pôle de recherche et d'innovation en matériaux avancés au Québec (PRIMA QUÉBEC)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Centre facilitant la recherche et l'innovation dans les organisations (CEFRIO)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Fonds de recherche du Québec Nature et technologies (FRQNT) </div></li>\
-				<li class='children__item'><div class='nodeExt'>Infrastructure en recherche et développement du Québec (IRDQ)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Centre de recherche industrielle du Québec (CRIQ)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Consortium de recherche et d'innovation en aérospatiale au Québec (CRIAQ)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Systèmes aéronautiques d'avant-garde pour l'environnement (SA²GE)</div></li>\
-				<li class='children__item'><div class='nodeExt'>QuébecInnove</div></li>\
-				<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Ministère de l'Économie, de la Science et de l'Innovation (MESI)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)</div></li>\
-				<li class='children__item'><div class='nodeExt'>MITACS</div></li>\
-				<li class='children__item'><div class='nodeExt'>Centre technologique en aérospatiale (CTA)</div></li>\
-				<li class='children__item'><div class='nodeExt'>Groupement Aéronautique de Recherche et de Développement en eNvironnement (GARDN)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre de recherche industrielle du Québec (CRIQ)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre facilitant la recherche et l'innovation dans les organisations (CEFRIO)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Centre technologique en aérospatiale (CTA)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Consortium de recherche et d'innovation en aérospatiale au Québec (CRIAQ)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Consortium en aérospatiale pour la recherche et l’innovation au Canada (CARIC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Fonds de recherche du Québec Nature et technologies (FRQNT) </div></li>\
+						<li class='children__item'><div class='nodeExt'>Groupement Aéronautique de Recherche et de Développement en eNvironnement (GARDN)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Infrastructure en recherche et développement du Québec (IRDQ)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Ministère de l'Économie, de la Science et de l'Innovation (MESI)</div></li>\
+						<li class='children__item'><div class='nodeExt'>MITACS</div></li>\
+						<li class='children__item'><div class='nodeExt'>Pôle de recherche et d'innovation en matériaux avancés au Québec (PRIMA QUÉBEC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>QuébecInnove</div></li>\
+						<li class='children__item'><div class='nodeExt'>Systèmes aéronautiques d'avant-garde pour l'environnement (SA²GE)</div></li>\
 			</ol>\
 		</li>\
 		\
@@ -1696,36 +1696,36 @@ var graphExtend =
 				<ol class='children'>\
 					<li class='children__item'><div class='nodeExt'>AéroFormation</div>\
 						<ol class='children'>\
-							<li class='children__item'><div class='nodeExt'>Service aux entreprises de l'ÉMAM</div></li>\
 							<li class='children__item'><div class='nodeExt'>Centre aérospatial de perfectionnement (CAPE)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Service aux entreprises de l'ÉMAM</div></li>\
 							<li class='children__item'><div class='nodeExt'>Service aux entreprises de l'ÉNA</div></li>\
 						</ol>\
 					</li>\
-					<li class='children__item'><div class='nodeExt'>Cégep André-Laurendeau</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre de métallurgie du Québec (CMQ) du Cégep de Trois-Rivières</div></li>\
-					<li class='children__item'><div class='nodeExt'>Collège de Bois-de-Boulogne</div></li>\
 					<li class='children__item'><div class='nodeExt'>Carrefour Perfectionnement Polytechnique Montréal (CPPM)</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA)</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre de formation en transport de Charlesbourg (CFTC)</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre de développement des composites du Québec (CDCQ) du Cégep de Saint-Jérôme</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre d'excellence sur les drones (CED)</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centres de formation dans les entreprises</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre du savoir sur mesure de l'UQAC (CÉSAM)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Cégep André-Laurendeau</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre d'excellence sur les drones (CED)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre de développement des composites du Québec (CDCQ) du Cégep de Saint-Jérôme</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centres de formation dans les entreprises</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre de formation en transport de Charlesbourg (CFTC)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre de métallurgie du Québec (CMQ) du Cégep de Trois-Rivières</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre du savoir sur mesure de l'UQAC (CÉSAM)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Collège de Bois-de-Boulogne</div></li>\
 				</ol>\
 			</li>\
 			\
 			<li class='children__item'>\
 				<div class='nodeExt'>Relève de main-d'oeuvre</div>\
 				<ol class='children'>\
-					<li class='children__item'><div class='nodeExt'>Folie Technique (campus Polytechnique Montréal)</div></li>\
-					<li class='children__item'><div class='nodeExt'>Programme Aéro2</div></li>\
-					<li class='children__item'><div class='nodeExt'>Cosmodôme</div></li>\
-					<li class='children__item'><div class='nodeExt'>Centre des sciences de Montréal</div></li>\
-					<li class='children__item'><div class='nodeExt'>Cadets de l'Air</div></li>\
-					<li class='children__item'><div class='nodeExt'>Expo-sciences</div></li>\
-					<li class='children__item'><div class='nodeExt'>Robotique FIRST Québec</div></li>\
-					<li class='children__item'><div class='nodeExt'>Réseau Technoscience</div></li>\
-					<li class='children__item'><div class='nodeExt'>Fusion Jeunesse</div></li>\
+							<li class='children__item'><div class='nodeExt'>Cadets de l'Air</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre des sciences de Montréal</div></li>\
+							<li class='children__item'><div class='nodeExt'>Cosmodôme</div></li>\
+							<li class='children__item'><div class='nodeExt'>Expo-sciences</div></li>\
+							<li class='children__item'><div class='nodeExt'>Folie Technique (campus Polytechnique Montréal)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Fusion Jeunesse</div></li>\
+							<li class='children__item'><div class='nodeExt'>Programme Aéro2</div></li>\
+							<li class='children__item'><div class='nodeExt'>Réseau Technoscience</div></li>\
+							<li class='children__item'><div class='nodeExt'>Robotique FIRST Québec</div></li>\
 				</ol>\
 			</li>\
 			\
@@ -1741,38 +1741,38 @@ var graphExtend =
 					\
 					<li class='children__item'><div class='nodeExt'>National</div>\
 						<ol class='children'>\
-							<li class='children__item'><div class='nodeExt'>Women in Aerospace Canada (WIA-Canada) </div></li>\
 							<li class='children__item'><div class='nodeExt'>Association du transport aérien du Canada (ATAC)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Canadian Business Aviation Association (CBAA)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Conseil canadien de l'aviation et de l'aérospatiale (CCAA)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Women in Aerospace Canada (WIA-Canada) </div></li>\
 						</ol>\
 					</li>\
 					\
 					<li class='children__item'><div class='nodeExt'>Provincial</div>\
 						<ol class='children'>\
-							<li class='children__item'><div class='nodeExt'>Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Aéro Montréal</div></li>\
+							<li class='children__item'><div class='nodeExt'>Association pour le développement de la recherche et de l'innovation du Québec (ADRIQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Association québécoise du transport aérien (AQTA) </div></li>\
+							<li class='children__item'><div class='nodeExt'>Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Conseil des aéroports du Québec (CAQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Conseil du patronat du Québec (CPQ)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Manufacturiers et Exportateurs du Québec (MEQ)</div></li>\
-							<li class='children__item'><div class='nodeExt'>Association pour le développement de la recherche et de l'innovation du Québec (ADRIQ)</div></li>\
 						</ol>\
 					</li>\
 					\
 					<li class='children__item'><div class='nodeExt'>Régional</div>\
 						<ol class='children'>\
-							<li class='children__item'><div class='nodeExt'>Montréal International</div></li>\
-							<li class='children__item'><div class='nodeExt'>Emploi Nexus</div></li>\
 							<li class='children__item'><div class='nodeExt'>Conseil emploi métropole (CEM)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Emploi Nexus</div></li>\
+							<li class='children__item'><div class='nodeExt'>Montréal International</div></li>\
 							<li class='children__item'><div class='nodeExt'>Instituts Aérospatiaux de Montréal (IAM)</div>\
 								<ol class='children'>\
-									<li class='children__item'><div class='nodeExt'>Concordia Institute of Aerospace Design & Innovation (CIADI)</div></li>\
-									<li class='children__item'><div class='nodeExt'>Institut de génie aérospatial de McGill (MIAE)</div></li>\
-									<li class='children__item'><div class='nodeExt'>SIGMA+/AÉROSPATIALE Centre de formation pratique en conception et en innovation en aérospatiale (CFPCIA)</div></li>\
-									<li class='children__item'><div class='nodeExt'>Institut de formation et de conception en génie aéronautique de Sherbrooke</div></li>\
 									<li class='children__item'><div class='nodeExt'>AÉROÉTS</div></li>\
+									<li class='children__item'><div class='nodeExt'>Concordia Institute of Aerospace Design & Innovation (CIADI)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut d'innovation et de conception en aérospatiale de Polytechnique (IICAP)</div></li>\
+									<li class='children__item'><div class='nodeExt'>Institut de génie aérospatial de McGill (MIAE)</div></li>\
+									<li class='children__item'><div class='nodeExt'>Institut de formation et de conception en génie aéronautique de Sherbrooke</div></li>\
+									<li class='children__item'><div class='nodeExt'>SIGMA+/AÉROSPATIALE Centre de formation pratique en conception et en innovation en aérospatiale (CFPCIA)</div></li>\
 								</ol>\
 							</li>\
 						</ol>\
