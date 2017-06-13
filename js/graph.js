@@ -1628,30 +1628,30 @@ var graphExtend =
 		<li class='children__item'>\
 			<div class='nodeExt'>Organismes pour le soutien au financement de la formation</div>\
 				<ol class='children'>\
-				<li class='children__item'><div class='nodeExt'>Provincial</div>\
+				<li class='children__item'><div class='nodeExt'>Fédéral</div>\
 					<ol class='children'>\
-						<li class='children__item'><div class='nodeExt'>Ministère de l'Économie, de la Science et de l'Innovation (MESI)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Investissement Québec (IQ)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Ministère de l'Éducation et de l'Enseignement supérieur (MEES)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Revenu Québec</div></li>\
-						<li class='children__item'><div class='nodeExt'>Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Association sectorielle – Fabrication d'équipement de transport et de machines (ASFETM)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Commission des partenaires du marché du travail (CPMT)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Emploi-Québec</div></li>\
-						<li class='children__item'><div class='nodeExt'>Ministère de l'Immigration, de la Diversité et de l'Inclusion</div></li>\
+						<li class='children__item'><div class='nodeExt'>Agence du revenu du Canada (ARC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Banque de développement du Canada (BDC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Développement économique Canada pour les régions du Québec</div></li>\
+						<li class='children__item'><div class='nodeExt'>Emploi et Développement social Canada (EDSC)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Innovation, Sciences et Développement économique Canada (anciennement Industrie Canada)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Réseau Entreprises Canada</div></li>\
+						<li class='children__item'><div class='nodeExt'>Transports Canada</div></li>\
 					</ol>\
 				</li>\
 				\
-				<li class='children__item'><div class='nodeExt'>Fédéral</div>\
+				<li class='children__item'><div class='nodeExt'>Provincial</div>\
 					<ol class='children'>\
-						<li class='children__item'><div class='nodeExt'>Transports Canada</div></li>\
-						<li class='children__item'><div class='nodeExt'>Innovation, Sciences et Développement économique Canada (anciennement Industrie Canada)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Banque de développement du Canada (BDC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Agence du revenu du Canada (ARC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Emploi et Développement social Canada (EDSC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Réseau Entreprises Canada</div></li>\
-						<li class='children__item'><div class='nodeExt'>Développement économique Canada pour les régions du Québec</div></li>\
+						<li class='children__item'><div class='nodeExt'>Association sectorielle – Fabrication d'équipement de transport et de machines (ASFETM)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Commission des partenaires du marché du travail (CPMT)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Emploi-Québec</div></li>\
+						<li class='children__item'><div class='nodeExt'>Investissement Québec (IQ)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Ministère de l'Économie, de la Science et de l'Innovation (MESI)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Ministère de l'Éducation et de l'Enseignement supérieur (MEES)</div></li>\
+						<li class='children__item'><div class='nodeExt'>Ministère de l'Immigration, de la Diversité et de l'Inclusion</div></li>\
+						<li class='children__item'><div class='nodeExt'>Revenu Québec</div></li>\
 					</ol>\
 				</li>\
 				\
