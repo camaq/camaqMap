@@ -379,13 +379,13 @@ graphAéroFormation = function () { return {
 		{"id": 3, "titre": "Service aux entreprises de\nl'ÉNA", "graphOpen": "NAN",
 				"mission": "Le Service aux entreprises  de l’ÉNA offre aux employés des PME en aéronautiques des formations adaptées aux changements organisationnels et technologiques de l’industrie. Il a développé un éventail de formations et de services-conseils adaptés aux besoins très spécifiques du marché du travail. Le Service aux entreprises de l’ÉNA a su au fil des années bâtir une notoriété en mettant de l’avant son expertise avec un souci d’efficacité et de soutien à la performance des entreprises.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de cours sur mesure ou de perfectionnements offerts aux PME :</span><br><br>\
- 							Cours sur mesure :<br><br>\
+ 							Cours sur mesure :<br>\
  							\u27E9 Camp d’entraînement en aéronautique<br>\
  							\u27E9 Formation en Métrologie (tolérancement géométrique et instruments de mesure)<br>\
- 							\u27E9 Formation en Qualité (inspection, optimisation et contrôle)<br><br>\
- 							\u27E9 Électricité et avionique<br><br>\
+ 							\u27E9 Formation en Qualité (inspection, optimisation et contrôle)<br>\
+ 							\u27E9 Électricité et avionique<br>\
  							\u27E9 Peinture d’aéronefs<br><br>\
- 							Perfectionnements :<br><br>\
+ 							Perfectionnements :<br>\
  							\u27E9 Introduction aux systèmes d’aéronefs<br>\
  							\u27E9 Réparations composites<br>\
  							\u27E9 Réparation de structures d’aéronefs (Licence S)<br>\
