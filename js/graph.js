@@ -1031,10 +1031,11 @@ graphFédéral = function () { return {
 				"lien":  "https://www.canada.ca/fr/innovation-sciences-developpement-economique.html" },
 				
 		{"id": 3, "titre": "Banque de développement\ndu Canada (BDC)", "graphOpen": "NAN", "symb": ["S"],
-				"mission": "La BDC a pour mission de contribuer à créer et à développer des entreprises canadiennes solides à l’aide de financement, de services de consultation et de services de titrisation, en accordant une attention particulière aux PME.<br><br>",
+				"mission": "La BDC a pour mission de contribuer à créer et à développer des PME canadiennes solides à l’aide de financement et de services de consultation. en accordant une attention particulière aux besoins des entrepreneurs. La BDC a une équipe sectorielle spécialisée qui couvre le secteur aérospatial.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes (financement) :</span><br><br>\
  							\u27E9 Prêt petites entreprises de BDC<br>\
- 							\u27E9 Prêts commerciaux (achat d’équipement, fonds de roulement, technologies, projet de croissance, terrains et bâtiments, etc.)",
+							\u27E9 Prêts commerciaux (achat d’équipement, fonds de roulement, technologies, projet de croissance, terrains et bâtiments, etc.)<br>\
+ 							\u27E9 Financement de projets, et de frais non récurrents liés à l’aérospatial",
 				"lien":  "http://www.bdc.ca" },
 						
 		{"id": 4, "titre": "Agence du revenu du\nCanada (ARC)", "graphOpen": "NAN", "symb": ["S"],
