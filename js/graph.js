@@ -487,7 +487,7 @@ graphFPLR = function () { return {
 				"lien":  "http://www.sa2ge.org" },
 						
 		{"id": 9, "titre": "QuébecInnove", "graphOpen": "NAN",
-				"mission": "QuébecInnove est un réseau reconnu par le gouvernement du Québec. Il regroupe des organismes actifs dans le domaine de la recherche et de l’innovation, désignés par le gouvernement, afin de mieux répondre aux besoins des organisations et des entreprises, particulièrement des PME en matière de recherche et d’innovation. Il entend également simplifier l’accès aux services de ses membres.<br><br>",
+				"mission": "Reconnu par le gouvernement du Québec, QuébecInnove est un OBNL constitué en réseau qui regroupe des organismes actifs dans le domaine de la recherche et de l’innovation, afin de mieux répondre aux besoins des organisations et des entreprises, en particulier des PME.<br><br>QuébecInnove mobilise et fédère les forces vives de l’écosystème québécois d’innovation de façon à mieux répondre aux besoins des entreprises et des organisations à soutenir le développement d’un Québec plus innovant. Cet organisme permet ainsi de mieux répondre aux défis sociétaux en lien avec le développement d’innovations, le transfert de connaissances et la commercialisation des innovations, tant sociales que technologiques.<br><br>",
 				"activite": "",
 				"lien":  "http://www.quebecinnove.com" },
 						
