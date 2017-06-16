@@ -862,7 +862,7 @@ graphProvincialODS = function () { return {
 				"mission": "Le CPQ assure que les employeurs puissent disposer des meilleures conditions possibles pour prospérer au Québec.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Grands dossiers et chantiers du CPQ :</span><br><br>\
  							\u27E9 Développement et disponibilité de la main-d’œuvre<br>\
- 							\u27E9 Réglementation n<br>\
+ 							\u27E9 Réglementation<br>\
  							\u27E9 Finances publiques et fiscalité<br>\
  							\u27E9 Économie durable<br>\
  							\u27E9 Législation et santé et sécurité au travail",
