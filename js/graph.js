@@ -1339,9 +1339,11 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
 				"lien":  "http://www.cqfa.ca" },
 				
 		{"id": 5, "titre": "Cégep du Vieux Montréal", "graphOpen": "NAN",
-				"mission": "La mission du Collège consiste à dispenser des programmes de la formation technique et préuniversitaire.<br><br>",
+				"mission": "Le cégep du Vieux Montréal est un établissement d'enseignement collégial offrant un éventail de 52 programmes, profils et options de formation préuniversitaires et techniques. Il vise la formation de personnes compétentes, autonomes, cultivées et engagées dans leur milieu, tout en valorisant le soutien et l'aide à la réussite à travers une approche humaniste de la formation. Plus qu'un centre de formation, le Cégep est aussi un milieu de vie dynamique. Chaque étudiant peut parfaire ses acquis et s'impliquer dans son milieu grâce à une vaste gamme d'activités sociales, culturelles, artistiques et scientifiques.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
- 							\u27E9 Génie mécanique : Fabrication mécanique, dessin de conception mécanique, maintenance industrielle<br>\
+ 							\u27E9 Techniques de génie mécanique - Fabrication mécanique<br>\
+							\u27E9 Techniques de génie mécanique - Dessin de conception mécanique<br>\
+							\u27E9 Technologie de maintenance industrielle<br>\
  							\u27E9 Technologie du génie électrique : Électronique industrielle",
 				"lien":  "http://www.cvm.qc.ca" },
 	  
