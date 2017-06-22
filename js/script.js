@@ -153,7 +153,7 @@ var graphFunction = function (graph) {
 	link
 		.append("line")
 		.attr("stroke-width", width/500)
-		.style("stroke", "#4678fb");;
+		.style("stroke", "#5096dc");;
 
 	//////////End initialize link////////////
 
@@ -179,7 +179,7 @@ var graphFunction = function (graph) {
 										.attr("width", width/7)
 										.attr("height", width/17)
 										.attr("transform", "translate(" + -(width/14 - width/250) + ", " + -(width/17/2 + width/200) +")")
-										.attr("fill", "#4678fb")
+										.attr("fill", "#5096dc")
 										.attr("rx", width/500)
 										.attr("ry", width/500);
 
