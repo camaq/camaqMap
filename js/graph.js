@@ -1617,7 +1617,7 @@ var graphExtend =
 						<li class='children__item'><div class='nodeExt'>Agence du revenu du Canada (ARC)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Banque de développement du Canada (BDC)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Conseil national de recherches Canada (CNRC)</div></li>\
-						<li class='children__item'><div class='nodeExt'>Développement économique Canada pour les régions du Québec</div></li>\
+						<li class='children__item'><div class='nodeExt'>Développement économique Canada</div></li>\
 						<li class='children__item'><div class='nodeExt'>Emploi et Développement social Canada (EDSC)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Innovation, Sciences et Développement économique Canada (anciennement Industrie Canada)</div></li>\
 						<li class='children__item'><div class='nodeExt'>Réseau Entreprises Canada</div></li>\
