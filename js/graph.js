@@ -1086,27 +1086,12 @@ graphFédéral = function () { return {
  							\u27E9 Et plusieurs autres",
 				"lien":  "http://entreprisescanada.ca/fr" },
 				
-		{"id": 8, "titre": "Développement économique\nCanada pour les\nrégions du Québec", "graphOpen": "NAN", "symb": ["S"],
+		{"id": 8, "titre": "Développement économique\nCanada", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Au cœur du développement économique des régions du Québec, Développement économique Canada pour les régions du Québec (DEC) aide les entreprises, les collectivités et les organismes qui les appuient, grâce à son réseau de bureaux d’affaires répartis sur l’ensemble du territoire.<br><br>\
-								Selon sa loi constituante entrée en vigueur le 5 octobre 2005, l'Agence a pour mission de promouvoir le développement économique à long terme des régions du Québec en accordant une attention particulière aux régions à faible croissance économique ou à celles qui n'ont pas suffisamment de possibilités d'emplois productifs. Dans le cadre de sa mission, l'Agence s'engage à favoriser la coopération et la complémentarité avec le Québec et les collectivités du Québec.<br><br>\
-								<span style=\"font-weight: bold;\">Via le Programme de développement économique du Québec (PDEQ)</span>, l’Agence favorise le développement des entreprises en contribuant, directement ou par l’entremise d’organismes d’appui, au soutien à l’entrepreneuriat et à la performance des entreprises.<br><br>",
+								<span style=\"font-weight: bold;\"><br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples de services offerts pour :</span><br><br>\
- 							\u27E9 Créer ou démarrer une entreprise<br>\
- 							\u27E9 Planifier la relève d’une entreprise<br>\
- 							\u27E9 Améliorer la productivité d’une entreprise<br>\
- 							\u27E9 Innover, adopter une technologie ou assurer un transfert technologique<br>\
- 							\u27E9 Commercialiser ou exporter<br>\
- 							\u27E9 Élaborer une stratégie de développement<br>\
- 							\u27E9 Promouvoir votre région<br>\
- 							\u27E9 Autres<br><br>\
- 							<span style=\"font-weight: bold;\">Programme de développement des collectivités (PDC)</span><br><br>\
- 							Les organismes de développement des collectivités bénéficiaires du Programme de développement des collectivités (PDC) sont :<br>\
- 							\u27E9 Les 57 Sociétés d'aide au développement des collectivités, situées dans les régions rurales désignées, le Réseau des SADC et CAE et le Fonds commun des SADC du Québec;<br>\
- 							\u27E9 Les 10 Centres d'aide aux entreprises, situés dans des zones périurbaines.<br><br>\
- 							<span style=\"font-weight: bold;\">Ce programme a pour principaux objectifs :</span><br>\
- 							\u27E9 La stabilité, la croissance économique et la création d'emplois;<br>\
- 							\u27E9 Des économies locales diversifiées et concurrentielles en milieu rural;<br>\
- 							\u27E9 Des collectivités durables.",
+ 							\u27E9 Programme de développement économique du Québec (PDEQ)<br>\
+ 							\u27E9 Programme de développement des collectivités",
 				"lien":  "http://www.dec-ced.gc.ca/fra/index.html" },
 				  
 		{"id": -1, "titre": "Organismes pour le\nsoutien au financement\nde la formation", "graphOpen": "graphOPLSAFDLF"},
