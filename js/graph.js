@@ -1088,7 +1088,7 @@ graphFédéral = function () { return {
 				
 		{"id": 8, "titre": "Développement économique\nCanada", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Au cœur du développement économique des régions du Québec, Développement économique Canada pour les régions du Québec (DEC) aide les entreprises, les collectivités et les organismes qui les appuient, grâce à son réseau de bureaux d’affaires répartis sur l’ensemble du territoire.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de services offerts pour :</span><br><br>\
+				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
  							\u27E9 Programme de développement économique du Québec (PDEQ)<br>\
  							\u27E9 Programme de développement des collectivités",
 				"lien":  "http://www.dec-ced.gc.ca/fra/index.html" },
