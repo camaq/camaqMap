@@ -1021,12 +1021,9 @@ graphFédéral = function () { return {
 				
 		{"id": 2, "titre": "Innovation, Sciences et\nDéveloppement économique\nCanada (anciennement\nIndustrie Canada)", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Innovation, Sciences et Développement économique Canada travaille avec les Canadiens de tous les secteurs de l’économie et de toutes les régions du pays à instaurer un climat favorable à l’investissement, à stimuler l’innovation, à accroître la présence canadienne sur les marchés mondiaux et à créer un marché équitable, efficace et concurrentiel.<br><br>",
-				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes (subventions) :</span><br><br>\
- 							\u27E9 Initiative stratégique pour l’aérospatiale et la défense<br>\
- 							\u27E9 Programme de financement des petites entreprises du Canada<br>\
- 							\u27E9 Programme de développement économique du Québec (PDEQ)<br>\
- 							\u27E9 Programme de développement des collectivités<br>\
- 							\u27E9 Fonds pour l'innovation stratégique",
+				"activite": "<span style=\"font-weight: bold;\">Exemples de ressources offertes :</span><br><br>\
+ 							\u27E9 Innovation Canada<br>\
+ 							\u27E9 Programme de financement des petites entreprises du Canada",
 				"lien":  "https://www.canada.ca/fr/innovation-sciences-developpement-economique.html" },
 				
 		{"id": 3, "titre": "Banque de développement\ndu Canada (BDC)", "graphOpen": "NAN", "symb": ["S"],
