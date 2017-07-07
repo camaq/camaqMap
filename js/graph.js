@@ -810,7 +810,6 @@ graphProvincialODS = function () { return {
  							\u27E9 Chantier Défense et sécurité nationale\
 							<br><br><span style=\"font-weight: bold;\">Exemples d’activités proposées :</span><br><br>\
  							\u27E9 Initiatives MACH et MACH FAB 4.0 <br>\
- 							\u27E9 Projet mobilisateur SA²GE (avion écologique)<br>\
  							\u27E9 Semaine internationale de l’aérospatiale<br>\
  							\u27E9 AeroPortail.ca<br>\
  							\u27E9 Portail Croissance Sécurité Défense Québec<br>\
