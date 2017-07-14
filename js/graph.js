@@ -1284,7 +1284,7 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
 				"lien":  "http://www.cegeptr.qc.ca" },
 						
 		{"id": 2, "titre": "École nationale\nd'aérotechnique (ÉNA)\n(Cégep Édouard-Montpetit)", "graphOpen": "NAN", "symb": ["E"],
-				"mission": "L’École nationale d’aérotechnique (ENA), un campus du cégep Édouard-Montpetit, est le chef de file en formation technique spécialisée en aéronautique au Québec. Elle est aussi la plus importante école en aéronautique en Amérique du Nord. Dotée d’équipements d’une valeur de plus de 85 millions de dollars, elle abrite, en plus de 36 aéronefs, de nombreux hangars et des laboratoires à la fine pointe de la technologie.  Ces installations sont consacrées tant à la formation initiale de la future main-d’œuvre spécialisée qu’au perfectionnement des employés des PME du Québec.<br><br>",
+				"mission": "Affiliée au cégep Édouard-Montpetit, l’École nationale d’aérotechnique (ÉNA) est aujourd’hui la plus importante maison d’enseignement en aérotechnique en Amérique du Nord et la seule au Québec à former des techniciens en aérotechnique. Grâce à ses trois programmes collégiaux uniques et à ses installations d’une valeur de 85 M$, qui comprennent 5 hangars abritant 36 aéronefs, l’ÉNA forme une main-d’œuvre technique spécialisée très demandée. Réputé pour son expertise et sa polyvalence, le Centre de service aux entreprises et de formation continue de l’ÉNA propose quant à lui des solutions intégrées de formation en entreprise répondant à leurs besoins spécifiques.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">DEC – Diplôme d’études collégiales :</span><br>\
  							\u27E9 Techniques de maintenance d’aéronefs<br>\
  							\u27E9 Aircraft Maintenance technology<br>\
@@ -1294,12 +1294,12 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
  							\u27E9 Éléments d’avionique (1 800 h)<br>\
  							\u27E9 Maintenance d’aéronefs (1 395 h)<br>\
  							\u27E9 Agent de méthode assemblages structuraux en aéronautique (540 h)<br>\
- 							\u27E9 Modélisation et dessins CATIA (375 h)<br><br>\
+ 							\u27E9 Conception assistée par ordinateur - CATIA (387 h)<br><br>\
  							<span style=\"font-weight: bold;\">DEC-BAC (passerelle du collégial à l’université) :</span><br>\
- 							\u27E9 Avionique (École Polytechnique)<br>\
- 							\u27E9 Génie aérospatial (École Polytechnique)<br>\
+ 							\u27E9 Avionique (Polytechnique Montréal)<br>\
+ 							\u27E9 Génie aérospatial (Polytechnique Montréal)<br>\
  							\u27E9 Génie aérospatial (Université Concordia)",
-				"lien":  "http://www.cegepmontpetit.ca/ecole-nationale-d-aerotechnique" },
+				"lien":  "http://www.ena.cegepmontpetit.ca" },
 
 		{"id": 3, "titre": "Cégep de Saint-Laurent", "graphOpen": "NAN",
 				"mission": "Le Collège a pour mission de donner aux jeunes et aux adultes admis une formation à la fois globale, leur permettant de s’adapter à la société et de participer à son évolution, et spécifique, adaptée aux contingences de leur orientation.<br><br>",
