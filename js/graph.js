@@ -383,11 +383,11 @@ graphAéroFormation = function () { return {
 							\u27E9 Élaboration et prestation de formations sur mesure<br>\
 							\u27E9 Développement de compétences<br>\
 							\u27E9 Test de sélection du personnel technique<br><br>\
-							<span style=\"font-weight: bold;\"Expertises :</span><br>\
+							<span style=\"font-weight: bold;\">Expertises : </span><br>\
  							\u27E9 Gestion<br>\
  							\u27E9 Inspection et qualité<br>\
  							\u27E9 Peinture et structure<br>\
- 							\u27E9 Composite<br><br>\
+ 							\u27E9 Composite<br>\
  							\u27E9 Métrologie<br>\
  							\u27E9 Moteurs<br>\
  							\u27E9 Systèmes d'aéronefs<br>\
