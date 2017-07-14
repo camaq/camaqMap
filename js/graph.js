@@ -1299,7 +1299,7 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
  							\u27E9 Avionique (Polytechnique Montréal)<br>\
  							\u27E9 Génie aérospatial (Polytechnique Montréal)<br>\
  							\u27E9 Génie aérospatial (Université Concordia)",
-				"lien":  "http://www.ena.cegepmontpetit.ca" },
+				"lien":  "http://ena.cegepmontpetit.ca" },
 
 		{"id": 3, "titre": "Cégep de Saint-Laurent", "graphOpen": "NAN",
 				"mission": "Le Collège a pour mission de donner aux jeunes et aux adultes admis une formation à la fois globale, leur permettant de s’adapter à la société et de participer à son évolution, et spécifique, adaptée aux contingences de leur orientation.<br><br>",
