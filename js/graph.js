@@ -1283,7 +1283,7 @@ graphCOLLÉGIALETTECHNIQUE = function () { return {
  							\u27E9 DEC-Bac en logistique ",
 				"lien":  "http://www.cegeptr.qc.ca" },
 						
-		{"id": 2, "titre": "École nationale\nd'aérotechnique (ÉNA)\n(Cégep Édouard-Montpetit)", "graphOpen": "NAN", "symb": ["E"],
+		{"id": 2, "titre": "École nationale\nd'aérotechnique (ÉNA)\n(Cégep Édouard-Montpetit)", "graphOpen": "NAN", "symb": ["E", "s"],
 				"mission": "Affiliée au cégep Édouard-Montpetit, l’École nationale d’aérotechnique (ÉNA) est aujourd’hui la plus importante maison d’enseignement en aérotechnique en Amérique du Nord et la seule au Québec à former des techniciens en aérotechnique. Grâce à ses trois programmes collégiaux uniques et à ses installations d’une valeur de 85 M$, qui comprennent 5 hangars abritant 36 aéronefs, l’ÉNA forme une main-d’œuvre technique spécialisée très demandée. Réputé pour son expertise et sa polyvalence, le Centre de service aux entreprises et de formation continue de l’ÉNA propose quant à lui des solutions intégrées de formation en entreprise répondant à leurs besoins spécifiques.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">DEC – Diplôme d’études collégiales :</span><br>\
  							\u27E9 Techniques de maintenance d’aéronefs<br>\
@@ -1357,7 +1357,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
   "nodes": [
 		{"id": 0, "titre": "Secondaire et\nprofessionnel", "logo": "NAN", "graphOpen": "NAN"},
 		
-		{"id": 1, "titre": "Centre de formation\nprofessionnelle (CFP)\ndes Moulins", "graphOpen": "NAN",
+		{"id": 1, "titre": "Centre de formation\nprofessionnelle (CFP)\ndes Moulins", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Le Centre de formation professionnelle (CFP) des Moulins a pour mission d’offrir des services de formation professionnelle de qualité afin de bien répondre aux différents besoins de ses élèves et de ses partenaires du marché du travail. Le CFP des Moulins offre une formation adaptée, rapide et intensive, et s’assure de toujours garder un lien avec les entreprises, et ce, afin de bien répondre à leurs besoins en matière de formation et de concentrer toutes les orientations vers notre priorité, l’élève.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
  							\u27E9 Comptabilité (DEP)<br>\
@@ -1373,7 +1373,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Usinage sur machines-outils à commande numérique (ASP)",
 				"lien":  "http://www.cfpmoulins.qc.ca" },
 						
-		{"id": 2, "titre": "École des métiers de\nl'aérospatiale de Montréal\n(ÉMAM)", "graphOpen": "NAN", "symb": ["E"],
+		{"id": 2, "titre": "École des métiers de\nl'aérospatiale de Montréal\n(ÉMAM)", "graphOpen": "NAN", "symb": ["E", "s"],
 				"mission": "L’ÉMAM a pour mission de former des travailleurs compétents qui répondent aux standards de l’industrie de l’aérospatiale au Québec. Grâce à un véritable partenariat, les organismes, associations et entreprises du milieu de l’aérospatiale contribuent à l’atteinte de cet objectif.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Formations dispensées :</span><br><br>\
  							\u27E9 Montage de câbles et de circuits (DEP)<br>\
@@ -1387,7 +1387,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Rembourrage d’aéronefs (AFP)",
 				"lien":  "http://www.ecole-metiers-aerospatiale.csdm.ca" },
 				
-		{"id": 3, "titre": "Centre de formation\nprofessionnelle (CFP)\nl'Émergence", "graphOpen": "NAN",
+		{"id": 3, "titre": "Centre de formation\nprofessionnelle (CFP)\nl'Émergence", "graphOpen": "NAN", 
 				"mission": "Le mandat du CFP l’Émergence est d’offrir des programmes de formation professionnelle de type DEP, ASP ou AEP.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts : </span><br><br>\
  							\u27E9 Techniques d’usinage (DEP)<br>\
@@ -1401,7 +1401,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Régulation de vol (DEP)",
 				"lien":  "http://www.cftc.qc.ca" },
 						
-		{"id": 5, "titre": "Centre intégré de mécanique,\nde métallurgie et d’électricité\n(CIMME)", "graphOpen": "NAN",
+		{"id": 5, "titre": "Centre intégré de mécanique,\nde métallurgie et d’électricité\n(CIMME)", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Le Cimme a pour mission d’offrir un enseignement de qualité permettant aux futurs travailleurs de répondre aux exigences de plus en plus grandes du marché du travail.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
  							\u27E9 Dessin industriel (DEP)<br>\
@@ -1413,7 +1413,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Usinage sur machines-outils à commande numérique (ASP)",
 				"lien":  "http://www.cimme.ca" },
 						
-		{"id": 6, "titre": "Centre de formation\nprofessionnelle (CFP)\nPierre-Dupuy", "graphOpen": "NAN",
+		{"id": 6, "titre": "Centre de formation\nprofessionnelle (CFP)\nPierre-Dupuy", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Le Centre Pierre-Dupuy a une triple mission : instruire, socialiser et qualifier. Il a également la responsabilité de favoriser chez les élèves le développement d’attitudes d’ouverture sur le monde et le respect de la diversité. Développer chez l’élève des compétences multiples au regard des attitudes, des habiletés techniques et des connaissances qui lui permettront une participation sociale et une insertion professionnelle réussie.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
  							\u27E9 Électricité (DEP)<br>\
