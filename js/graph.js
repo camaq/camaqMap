@@ -1156,7 +1156,7 @@ graphUniversitaire = function () { return {
   "nodes": [
 		{"id": 0, "titre": "Universitaire", "logo": "NAN", "graphOpen": "NAN"},
 		
-		{"id": 1, "titre": "Université Concordia", "graphOpen": "NAN", "symb": ["A", "P", "D"],
+		{"id": 1, "titre": "Université Concordia", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "Concordia University is welcoming, engaged, and committed to innovation and excellence in education, research, creative activity and community partnerships. It dares to be different and draws on its diversity to transform the individual, strengthen society and enrich the world.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie aérospatial (spécialités : aérospatiale et propulsion, structures aérospatiales et matériaux, avionique et systèmes aérospatiaux)<br>\
@@ -1164,7 +1164,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Programme AeroCREATE \u24B6",
 				"lien":  "http://www.concordia.ca" },
 						
-		{"id": 2, "titre": "Polytechnique Montréal", "graphOpen": "NAN", "symb": ["A", "P", "D"],
+		{"id": 2, "titre": "Polytechnique Montréal", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "Polytechnique a pour mission :<br>\
  							\u27E9 de donner une formation de qualité en ingénierie à tous les cycles, en mettant l’accent sur les valeurs humaines;<br>\
  							\u27E9 de réaliser des recherches pertinentes et de haut niveau, qui sont à la base d’une formation de qualité au niveau de la maîtrise et du doctorat et qui tiennent compte des besoins du milieu industriel et de la société;<br>\
@@ -1176,7 +1176,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Programme AeroCREATE  \u24B6",
 				"lien":  "http://www.polymtl.ca" },
 			
-		{"id": 3, "titre": "Université McGill", "graphOpen": "NAN", "symb": ["A", "P", "D"],
+		{"id": 3, "titre": "Université McGill", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "L’Université McGill a pour mission de faire progresser le savoir par son enseignement, ses travaux de recherche et les services qu’elle rend à la société. Pour s’en acquitter, elle offre la meilleure instruction qui soit à un effectif étudiant de 1er, 2e et 3e cycle exceptionnel; elle effectue des travaux de recherche jugés excellents selon les normes internationales les plus rigoureuses; enfin, elle rend des services à la société dans les domaines où elle est particulièrement experte.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie mécanique, concentration génie aéronautique<br>\
@@ -1184,7 +1184,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Programme AeroCREATE   \u24B6",
 				"lien":  "https://www.mcgill.ca" },
 				
-		{"id": 4, "titre": "École de technologie\nsupérieure (ÉTS)", "graphOpen": "NAN", "symb": ["A", "P", "D"],
+		{"id": 4, "titre": "École de technologie\nsupérieure (ÉTS)", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "L’École de technologie supérieure est une constituante du réseau de l’Université du Québec. Spécialisée dans l’enseignement et la recherche appliqués en génie et le transfert technologique, elle forme des ingénieurs et des chercheurs reconnus pour leur approche pratique et innovatrice. Depuis sa création, elle entretient un partenariat unique avec le milieu des affaires et l’industrie, tant avec les grandes entreprises que les PME.<br><br> Par sa mission particulière axée sur le génie appliqué et ses liens étroits avec les organisations, l’ÉTS se distingue nettement des établissements universitaires québécois. Elle est de plus la seule école d’ingénierie au Québec qui offre des programmes de baccalauréat en génie créés spécifiquement pour les diplômés de niveau collégial technique désirant se doter d’une formation universitaire.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
 							Baccalauréats :<br>\
@@ -1204,7 +1204,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Programme AeroCREATE  \u24B6",
 				"lien":  "http://www.etsmtl.ca/" },
 						
-		{"id": 5, "titre": "Université Laval", "graphOpen": "NAN", "symb": ["A", "P", "D"],
+		{"id": 5, "titre": "Université Laval", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "Première université francophone d’Amérique, ouverte sur le monde et animée d’une culture de l’exigence, l’Université Laval contribue au développement de la société :<br>\
  							\u27E9 par la formation de personnes compétentes, responsables et promotrices de changement,<br>\
  							\u27E9 par l’avancement et le partage des connaissances dans un environnement dynamique de recherche et de création.<br><br>",
@@ -1213,7 +1213,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Programme AeroCREATE \u24B6",
 				"lien":  "http://www.ulaval.ca" },
 						
-		{"id": 6, "titre": "Université de Sherbrooke", "graphOpen": "NAN", "symb": ["P", "D"],
+		{"id": 6, "titre": "Université de Sherbrooke", "graphOpen": "NAN", "symb": ["P", "D", "s"],
 				"mission": "Communauté ouverte, engagée et responsable, l’Université de Sherbrooke répond aux besoins de la société et contribue à son développement en se consacrant à l’enseignement, à la recherche et à la création, par l’offre diversifiée d’expériences d’apprentissage, par la production et le transfert des connaissances et par la promotion de la pensée critique.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie mécanique, avec concentration en aéronautique<br>\
