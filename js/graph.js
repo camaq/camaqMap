@@ -1220,7 +1220,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Maîtrise en génie aérospatial (Programme conjoint)  \u24C5",
 				"lien":  "http://www.usherbrooke.ca" },
 				
-		{"id": 7, "titre": "Université du Québec à\nChicoutimi (UQAC)", "graphOpen": "NAN",
+		{"id": 7, "titre": "Université du Québec à\nChicoutimi (UQAC)", "graphOpen": "NAN","symb": ["s"],
 				"mission": "À titre d’institution d’enseignement supérieur, l’UQAC œuvre aux trois cycles d’études et est active en recherche/création. Elle assume une mission de transmission et de diffusion des connaissances en offrant un ensemble de programmes d’études qui s’adressent à des étudiants ayant des profils variés et intéressés par une formation initiale de qualité et une mise à jour continuelle de leur savoir, afin que ceux-ci soient en mesure de jouer un rôle de citoyens responsables dans une société en perpétuel changement.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie mécanique<br>\
@@ -1231,7 +1231,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Doctorat en ingénierie",
 				"lien":  "http://www.uqac.ca" },
 				
-		{"id": 8, "titre": "Université du Québec à\nTrois-Rivières (UQTR)", "graphOpen": "NAN",
+		{"id": 8, "titre": "Université du Québec à\nTrois-Rivières (UQTR)", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Enracinée dans son milieu et résolument branchée sur le monde, l’UQTR se distingue dans la production, le transfert et la diffusion des connaissances, par la formation, la recherche, les services à la collectivité et l’implication sociale des membres de sa communauté.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes d’études offerts :</span><br><br>\
  							\u27E9 Baccalauréat en génie électrique<br>\
