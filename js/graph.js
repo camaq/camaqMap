@@ -428,7 +428,7 @@ graphFPLR = function () { return {
  							\u27E9 Outils de financement, recherche collaborative",
 				"lien":  "http://www.prima.ca/fr" },
 						
-		{"id": 3, "titre": "Centre facilitant la\nrecherche et l'innovation\ndans les organisations\n(CEFRIO)", "graphOpen": "NAN", "symb": ["S"],
+		{"id": 3, "titre": "Centre facilitant la\nrecherche et l'innovation\ndans les organisations\n(CEFRIO)", "graphOpen": "NAN",
 				"mission": "Le CEFRIO est un organisme de recherche et d’innovation qui accompagne les entreprises et les organisations dans la transformation de leurs pratiques par l'adoption du numérique. Il recherche, expérimente, mesure et fait connaître les usages du numérique dans tous les volets de la société. Son action s'appuie sur une équipe expérimentée, un réseau de plus de 90 chercheurs associés et invités ainsi que l'engagement de plus de 200 membres.<br><br>",
 				"activite": "",
 				"lien":  "http://www.cefrio.qc.ca" },
