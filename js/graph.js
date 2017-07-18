@@ -1113,7 +1113,7 @@ graphRégional = function () { return {
   "nodes": [
 		{"id": 0, "titre": "Régional", "logo": "NAN", "graphOpen": "NAN"},
 		
-		{"id": 1, "titre": "Bureaux régionaux\nd'Emploi-Québec / Centres\nlocaux d’emploi (CLE) ", "graphOpen": "NAN", "symb": ["S", "s"],
+		{"id": 1, "titre": "Bureaux régionaux\nd'Emploi-Québec / Centres\nlocaux d’emploi (CLE) ", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "Emploi-Québec offre différentes mesures d’aide à l’emploi destinées aux individus et aux entreprises, dont du soutien à la formation, afin de favoriser l’intégration et le maintien en emploi.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\"> </span><br><br>",
 				"lien":  "https://www.mess.gouv.qc.ca/services-en-ligne/centres-locaux-emploi/localisateur/services.asp" },
