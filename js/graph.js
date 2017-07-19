@@ -185,7 +185,7 @@ graphFCEP = function () { return {
 								<br><br><span style=\"font-weight: bold;\">Perfectionnement :</span><br><br>\
 								\u27E9 Certificat de perfectionnement spécialisé en aéronautique<br>\
 								\u27E9 Certificat de perfectionnement en ingénierie des diplômés en génie de l’étranger (préparation de l’admission à l’OIQ)",
-					"lien":  "http://www.perfectionnement.polymtl.ca" },
+					"lien":  "http://perfectionnement.polymtl.ca" },
 		
 		{"id": 6, "titre": "Centre québécois de\nformation aéronautique\n(CQFA)", "graphOpen": "NAN",
 				"mission": "Le CQFA, par le biais de son programme de formation continue, s’applique à maintenir les compétences des professionnels de l’aviation, tant au niveau de l’aviation civile que chez les exploitants aériens, les aéroports, jusqu’aux pilotes.<br><br>",
