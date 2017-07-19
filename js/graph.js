@@ -1542,7 +1542,7 @@ var legendeObj = [
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.nrc-cnrc.gc.ca/fra/index.html\">\u27E9 ORT : Organisation de recherche et de technologie<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"https://www.tc.gc.ca/fra/programmes/aeroports-paia-menu-327.htm\">\u27E9 PAIA : Programme d’aide aux immobilisations aéroportuaires (Transports Canada)<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.nrc-cnrc.gc.ca/fra/pari/index.html\">\u27E9 PARI : Programme d’aide à la recherche industrielle (Conseil national de recherches Canada [CNRC])<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.dec-ced.gc.ca/fra/agence/programmes/pdeq/index.html/\">\u27E9 PDEQ : Programme de développement économique du Québec<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.dec-ced.gc.ca/fra/agence/programmes/pdeq/index.html\">\u27E9 PDEQ : Programme de développement économique du Québec<\a><br><br>\
 \u27E9 PHQ : Personnel hautement qualifié<br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.criaq.aero/2016/Pages/Detail/7378450216/10579844776/_programme_dinitiation_a_la_recherche_en_aerospatiale_pira_pour_les_etudiants1_de_1er_cycle.html/\">\u27E9 PIRA : Programme d’initiation à la recherche en aérospatiale (Consortium de recherche et d’innovation en aérospatiale au Québec [CRIAQ])<\a><br><br>\
 \u27E9 PME : Petites et moyennes entreprises<br><br>\
