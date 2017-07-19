@@ -727,7 +727,7 @@ graphIAM = function () { return {
  							\u27E9 Affichage de stages industriels aux meilleurs étudiants en aérospatiale de 6 universités québécoises : ÉTS, Polytechnique Montréal, McGill, Concordia, Sherbrooke et Laval.",
 				"lien":  "mai-aero.ca/fr" },
 				
-		{"id": 1, "titre": "Concordia Institute\nof Aerospace Design\n& Innovation (CIADI)", "graphOpen": "NAN", "symb": ["s"],
+		{"id": 1, "titre": "Concordia Institute\nof Aerospace Design\nand Innovation (CIADI)", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Les objectifs du « Concordia Institute of Aerospace Design & Innovation » (CIADI) sont de conscientiser et de fournir un savoir-faire de pointe aux étudiants en génie œuvrant dans la conception aéronautique et l’innovation. <br><br>\
 								L’approche du CIADI est pluridisciplinaire par nature et ses efforts se concentrent sur les technologies en constante évolution. <br><br>\
 								Le CIADI, qui est affilié à la Faculté de génie en informatique, propose des cours de haut niveau aux étudiants désireux d’entreprendre une carrière dans l’industrie aérospatiale.<br><br>",
@@ -1749,7 +1749,7 @@ var graphExtend =
 							<li class='children__item'><div class='nodeExt'>Instituts Aérospatiaux de Montréal (IAM)</div>\
 								<ol class='children'>\
 									<li class='children__item'><div class='nodeExt'>AÉROÉTS</div></li>\
-									<li class='children__item'><div class='nodeExt'>Concordia Institute of Aerospace Design & Innovation (CIADI)</div></li>\
+									<li class='children__item'><div class='nodeExt'>Concordia Institute of Aerospace Design and Innovation (CIADI)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut d'innovation et de conception en aérospatiale de Polytechnique (IICAP)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut de génie aérospatial de McGill (MIAE)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut de formation et de conception en génie aéronautique de Sherbrooke</div></li>\
