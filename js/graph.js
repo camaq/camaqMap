@@ -1162,7 +1162,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Baccalauréat en génie aérospatial (spécialités : aérospatiale et propulsion, structures aérospatiales et matériaux, avionique et systèmes aérospatiaux)<br>\
  							\u27E9 Maîtrise en génie aérospatial (Programme conjoint) \u24C5<br>\
  							\u27E9 Programme AeroCREATE \u24B6",
-				"lien":  "http://www.concordia.ca" },
+				"lien":  "http://www.concordia.ca/fr.html" },
 						
 		{"id": 2, "titre": "Polytechnique Montréal", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "Polytechnique a pour mission :<br>\
