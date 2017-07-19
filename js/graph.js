@@ -1385,7 +1385,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
  							\u27E9 Usinage sur machines-outils à commande numérique (ASP)<br>\
  							\u27E9 Outillage (ASP)<br>\
  							\u27E9 Rembourrage d’aéronefs (AFP)",
-				"lien":  "http://www.ecole-metiers-aerospatiale.csdm.ca" },
+				"lien":  "http://ecole-metiers-aerospatiale.csdm.ca" },
 				
 		{"id": 3, "titre": "Centre de formation\nprofessionnelle (CFP)\nl'Émergence", "graphOpen": "NAN", 
 				"mission": "Le mandat du CFP l’Émergence est d’offrir des programmes de formation professionnelle de type DEP, ASP ou AEP.<br><br>",
