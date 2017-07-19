@@ -1360,16 +1360,14 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
 		{"id": 1, "titre": "Centre de formation\nprofessionnelle (CFP)\ndes Moulins", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Le Centre de formation professionnelle (CFP) des Moulins a pour mission d’offrir des services de formation professionnelle de qualité afin de bien répondre aux différents besoins de ses élèves et de ses partenaires du marché du travail. Le CFP des Moulins offre une formation adaptée, rapide et intensive, et s’assure de toujours garder un lien avec les entreprises, et ce, afin de bien répondre à leurs besoins en matière de formation et de concentrer toutes les orientations vers notre priorité, l’élève.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
- 							\u27E9 Comptabilité (DEP)<br>\
-							\u27E9 Ébénisterie (DEP)<br>\
+ 							\u27E9 Ébénisterie (DEP)<br>\
 							\u27E9 Électricité (DEP)<br>\
 							\u27E9 Électromécanique (DEP)<br>\
 							\u27E9 Finition de meubles (DEP)<br>\
  							\u27E9 Mécanique industrielle (DEP)<br>\
  							\u27E9 Mise en œuvre des matériaux composites (DEP)<br>\
  							\u27E9 Rembourrage industriel (DEP)<br>\
-							\u27E9 Secrétariat (DEP)<br>\
- 							\u27E9 Techniques d’usinage (DEP)<br>\
+							\u27E9 Techniques d’usinage (DEP)<br>\
  							\u27E9 Usinage sur machines-outils à commande numérique (ASP)",
 				"lien":  "http://www.cfpmoulins.qc.ca" },
 						
