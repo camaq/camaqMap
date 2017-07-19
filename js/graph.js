@@ -234,7 +234,7 @@ graphFCEP = function () { return {
 							\u27E9 Autres",
 				"lien":  "" },
 						
-		{"id": 11, "titre": "Centre du savoir sur mesure\nde l'UQAC (CÉSAM)", "graphOpen": "NAN",
+		{"id": 11, "titre": "Centre du savoir sur mesure\nde l'UQAC (CESAM)", "graphOpen": "NAN",
 				"mission": "Le Centre du savoir sur mesure (CESAM) de l’Université du Québec à Chicoutimi offre un accompagnement sur mesure. En proposant une approche pédagogique personnalisée et en partageant son savoir et ses experts, le CESAM rend la formation continue universitaire accessible, adaptée et applicable.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Des programmes s’adressant aux professionnels et gestionnaires de toutes les sphères d’activité, notamment :</span><br><br>\
 							\u27E9 Gestion du transport aérien<br>\
@@ -657,7 +657,7 @@ graphNationalODS = function () { return {
 							\u27E9 Autres (http://www.avaerocouncil.ca/en/skill-development-training-products-and-courses/skill-development-training-products-and-courses-0)<br><br>\
 		 					Certification & normes professionnelles :<br>\
 							Le CCAA est le seul organisme d’accréditation national qui représente la main-d’œuvre de l’industrie de l’aviation et de l’aéronautique. En collaboration avec divers experts en matières spécialisées afin de documenter les tâches et sous-tâches effectuées par les gens de métier dans l’exécution de leurs fonctions, le CCAA a élaboré 29 normes professionnelles (http://www.avaerocouncil.ca/fr/certification/normes-professionnelles). Cette analyse énumère les connaissances requises pour exécuter chacun des métiers. 13 de ces normes sont reconnues par Transports Canada (cf. Avis de navigabilité C009) pour le personnel qui travaillent dans un organisme de maintenance agréé (OMA).",			
-		  		"lien":  "http://www.avaerocouncil.ca" },
+		  		"lien":  "http://www.avaerocouncil.ca/fr" },
 						
 		{"id": -1, "titre": "Organismes de soutien", "graphOpen": "graphODS"},
 		{"id": -2, "titre": "Accueil", "graphOpen": "graphRoot"}
@@ -1689,7 +1689,7 @@ var graphExtend =
 							<li class='children__item'><div class='nodeExt'>Centres de formation dans les entreprises</div></li>\
 							<li class='children__item'><div class='nodeExt'>Centre de formation en transport de Charlesbourg (CFTC)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Centre de métallurgie du Québec (CMQ) du Cégep de Trois-Rivières</div></li>\
-							<li class='children__item'><div class='nodeExt'>Centre du savoir sur mesure de l'UQAC (CÉSAM)</div></li>\
+							<li class='children__item'><div class='nodeExt'>Centre du savoir sur mesure de l'UQAC (CESAM)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Centre québécois de formation aéronautique (CQFA)</div></li>\
 							<li class='children__item'><div class='nodeExt'>Collège de Bois-de-Boulogne</div></li>\
 				</ol>\
