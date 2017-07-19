@@ -146,7 +146,7 @@ graphFCEP = function () { return {
 		{"id": 0, "titre": "Formation continue\net perfectionnement", "logo": "NAN", "graphOpen": "NAN"},
 
 		{"id": 1, "titre": "Cégep André-Laurendeau", "graphOpen": "NAN",
-				"mission": "Engagé dans la pleine réussite des étudiants et partenaire de sa région, le Cégep André-Laurendeau a pour mission de « contribuer à la formation d’une personne qualifiée, responsable et engagée tout en participant activement à la vie de la communauté ».<br><br>",
+				"mission": "Engagé dans la pleine réussite des étudiants et partenaire de sa région, le Cégep André-Laurendeau a pour mission de contribuer à la formation d’une personne qualifiée, responsable et engagée tout en participant activement à la vie de la communauté.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Formations offertes :</span><br><br>\
 							\u27E9 Gestion de la chaîne d’approvisionnement et logistique<br>\
 							\u27E9 Techniques de la logistique du transport<br>\
