@@ -374,7 +374,7 @@ graphAéroFormation = function () { return {
  							\u27E9 Meilleures pratiques de gestion pour l’industrie aérospatiale<br>\
  							\u27E9 Certification des aéronefs et systèmes<br>\
  							\u27E9 Gestion de la chaîne d’approvisionnement aérospatiale",
-				"lien":  "http://aeroets.etsmtl.ca" },
+				"lien":  "http://aeroets.etsmtl.ca/pages/fr/programs/development.php" },
 						
 		{"id": 3, "titre": "Service aux entreprises de\nl'ÉNA", "graphOpen": "NAN",
 				"mission": "La direction de la formation continue et des services aux entreprises (DFCSAE) de l’ÉNA offre aux entreprises en aéronautique des formations adaptées aux changements organisationnels et technologiques de l’industrie. Elle a développé un éventail de formations et des services-conseils adaptés aux besoins spécifiques du marché du travail. Elle a su au fil des années se bâtir une notoriété en mettant de l’avant son expertise avec un souci constant d’efficacité. Reconnue pour la qualité de ses formations, la  DFCSAE vient soutenir la performance des entreprises.<br><br>",
@@ -418,7 +418,7 @@ graphFPLR = function () { return {
  							\u27E9 Exploration de la technologie : Dirigés par l’industrie, les projets visent à explorer le potentiel de technologies émergentes dans le but de générer de nouvelles idées d’applications ou de valider des éléments technologiques dans le cadre de projets de recherche appliquée<br>\
  							\u27E9 Maturation de la technologie : Dirigés par l’industrie, les projets visent à valider ou à démontrer le potentiel d’une nouvelle technologie à résoudre une problématique particulière pour le secteur aérospatial<br>\
  							\u27E9 Aero-Connect : Dirigés par l’industrie, les projets visent à développer de nouvelles relations entre l’industrie aérospatiale et le milieu académique par la mise sur pied de nouvelles collaborations de recherche. Aero-Connect bonifie le Programme de Subventions d’engagement partenarial (SEP ou Engage) du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)",
-				"lien":  "http://www.caric.aero" },
+				"lien":  "http://caric.aero/fr/" },
 						
 		{"id": 2, "titre": "Pôle de recherche et\nd'innovation en matériaux\navancés au Québec\n(PRIMA QUÉBEC)", "graphOpen": "NAN", "symb": ["S"],
 				"mission": "PRIMA QUÉBEC agit comme un pôle central amorçant et animant des activités de concertation et de maillage et finançant des initiatives favorisant la formation, le transfert de connaissance et le développement d’applications en lien avec les matériaux avancés.<br><br>",
