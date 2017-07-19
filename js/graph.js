@@ -62,7 +62,7 @@ graphRDLMDO = function () { return {
 								Durant le 1er cycle du secondaire, la science et la technologie, les mathématiques et l’anglais occuperont une place importante. L’environnement technologique sera aussi privilégié. En partenariat avec Montréal Relève, un organisme expert en préparation de la relève, les élèves de la 1re à la 5e secondaire auront accès à diverses activités d’exploration. Des visites en entreprise, du mentorat, des stages et des découvertes de secteurs seront offerts au cours de leur formation.<br><br>\
 								L’élève terminera ses études avec deux diplômes, soit son diplôme d’études secondaires (DES) et un diplôme d’études professionnelles (DEP) en Assemblage et montage mécanique en aérospatiale de l’École des métiers de l’aérospatiale de Montréal (ÉMAM).<br><br>",
 				"activite": "",
-				"lien":  "http://www.louis-riel.csdm.ca/programmes/aero2" },			
+				"lien":  "http://louis-riel.csdm.ca/programmes/aero2" },			
 			{"id": 3, "titre": "Cosmodôme", "graphOpen": "NAN",
 				"mission": "L’objectif du Cosmodôme est de stimuler l’intérêt des jeunes et des moins jeunes, d’ici et d’ailleurs, aux sciences de l’espace, à la culture scientifique et aux carrières liées au monde de l’astronautique.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples d’expositions et de missions virtuelles :</span><br><br>\
