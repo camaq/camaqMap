@@ -743,7 +743,7 @@ graphIAM = function () { return {
 				"mission": "La mission première du Centre de formation pratique en conception et en innovation en aérospatiale (CFPCIA), affilié à la Faculté des sciences et de génie de l’Université Laval (FSG_UL), est d’offrir aux étudiants en génie de l’Université Laval au baccalauréat et en maîtrise de cours des stages spécialisés de haut niveau dans le domaine de l'industrie aérospatiale. <br><br>\
 								En fournissant un cadre d'apprentissage pratique distinctif et stimulant, le CFPCIA permet aux étudiants de côtoyer des ingénieurs en conception et en innovation en aérospatiale dans un secteur industriel à la fine pointe de la technologie.<br><br>",
 				"activite": "",
-				"lien":  "" },
+				"lien":  "https://www.fsg.ulaval.ca/futurs-etudiants/stages-et-emplois/aerospatiale/" },
 						
 		{"id": 4, "titre": "Institut de formation et\nde conception en génie\naérospatial de Sherbrooke", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "L’Institut de formation et de conception en génie aérospatial de Sherbrooke a pour mandat d’offrir aux étudiants de la Faculté de génie de l’Université de Sherbrooke, dans le cadre de leurs programmes d’études, des stages de haut niveau offrant un milieu de formation unique et pratique, ainsi que des projets de conception répondant à des problématiques industrielles. <br><br>\
