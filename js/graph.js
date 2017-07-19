@@ -745,8 +745,8 @@ graphIAM = function () { return {
 				"activite": "",
 				"lien":  "" },
 						
-		{"id": 4, "titre": "Institut de formation et\nde conception en génie\naéronautique de Sherbrooke", "graphOpen": "NAN", "symb": ["s"],
-				"mission": "L’Institut de formation et de conception en génie aéronautique de Sherbrooke (Institut de formation et de conception en génie aérospatial de Sherbrooke) a pour mandat d’offrir aux étudiants de la Faculté de génie de l’Université de Sherbrooke, dans le cadre de leurs programmes d’études, des stages de haut niveau offrant un milieu de formation unique et pratique, ainsi que des projets de conception répondant à des problématiques industrielles. <br><br>\
+		{"id": 4, "titre": "Institut de formation et\nde conception en génie\naérospatial de Sherbrooke", "graphOpen": "NAN", "symb": ["s"],
+				"mission": "L’Institut de formation et de conception en génie aérospatial de Sherbrooke a pour mandat d’offrir aux étudiants de la Faculté de génie de l’Université de Sherbrooke, dans le cadre de leurs programmes d’études, des stages de haut niveau offrant un milieu de formation unique et pratique, ainsi que des projets de conception répondant à des problématiques industrielles. <br><br>\
 								Chaque stage ou projet est encadré par un superviseur de l’industrie et un suivi pédagogique est assuré par l’Université de Sherbrooke. Les stages et les projets offrent la possibilité d’acquérir une expérience concrète et de développer les compétences et les connaissances pertinentes à la pratique de la profession d’ingénieur aéronautique ou spatial. <br><br>\
 								Ces activités permettent aussi à l’industrie d’avoir accès à des étudiants de haut niveau et ainsi d’identifier et de former la relève dans son domaine.<br><br> ",
 				"activite": "",
@@ -1752,7 +1752,7 @@ var graphExtend =
 									<li class='children__item'><div class='nodeExt'>Concordia Institute of Aerospace Design and Innovation (CIADI)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut d'innovation et de conception en aérospatiale de Polytechnique (IICAP)</div></li>\
 									<li class='children__item'><div class='nodeExt'>Institut de génie aérospatial de McGill (MIAE)</div></li>\
-									<li class='children__item'><div class='nodeExt'>Institut de formation et de conception en génie aéronautique de Sherbrooke</div></li>\
+									<li class='children__item'><div class='nodeExt'>Institut de formation et de conception en génie aérospatial de Sherbrooke</div></li>\
 									<li class='children__item'><div class='nodeExt'>SIGMA+/AÉROSPATIALE Centre de formation pratique en conception et en innovation en aérospatiale (CFPCIA)</div></li>\
 								</ol>\
 							</li>\
