@@ -1491,7 +1491,7 @@ var legendeObj = [
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.cefrio.qc.ca/\">\u27E9 CEFRIO : Centre facilitant la recherche et l’innovation dans les organisations<\a><br><br>\
 \u27E9 CFIT : Impact sans perte de contrôle/controlled flight into terrain<br><br>\
 \u27E9 CFP : Centre de formation professionnelle<br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://mai-aero.ca/fr/quatre-instituts/\">\u27E9 CFPCIA : Centre de formation pratique en conception et en innovation en aérospatiale (SIGMA+/AÉROSPATIALE) (Université Laval)<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"https://www.fsg.ulaval.ca/futurs-etudiants/stages-et-emplois/aerospatiale/\">\u27E9 CFPCIA : Centre de formation pratique en conception et en innovation en aérospatiale (SIGMA+/AÉROSPATIALE) (Université Laval)<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"https://cftc.qc.ca/\">\u27E9 CFTC : Centre de formation en transport de Charlesbourg<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.concordia.ca/encs/aerospace.html\">\u27E9 CIADI : Concordia Institute of Aerospace Design & Innovation<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://cimme.centrecsmb.com/\">\u27E9 CIMME : Centre intégré de mécanique, de métallurgie et d’électricité<\a><br><br>\
