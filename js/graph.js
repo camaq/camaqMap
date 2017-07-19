@@ -1465,10 +1465,10 @@ var legendeObj = [
 \u27E9 AEP : Attestation d’études professionnelles<br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://criaq.aero/aerocreate/\">\u27E9 AeroCREATE : Programme Collaborative Research and Training Experience<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://aeroets.etsmtl.ca/\">\u27E9 AÉROÉTS : Regroupement des activités d’enseignement et de recherche de l’École de technologie supérieure (ÉTS)<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://sciencetech.ca/\">\u27E9 AEST : Alliance pour l’enseignement de la science et de la technologie<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://sciencetech.ca/fr/\">\u27E9 AEST : Alliance pour l’enseignement de la science et de la technologie<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.aestq.org/\">\u27E9 AESTQ : Association pour l’enseignement de la science et de la technologie<\a><br><br>\
 \u27E9 AFP : Attestation de formation professionnelle<br><br>\
-\u27E9 ApproVision : Programme de reconnaissance des acquis et optimisation des compétences pour la gestion de l’approvisionnement (Collège de Bois-de-Boulogne)<br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"https://bdeb-formationcontinue.omnivox.ca/cncr/insc/InfoActivite.ovx?NoActivite=1_APPR05_A17_GR01&Cat=2&GrandeCat=2&Ref=103505409825&C=BDC&L=FRA\">\u27E9 ApproVision : Programme de reconnaissance des acquis et optimisation des compétences pour la gestion de l’approvisionnement (Collège de Bois-de-Boulogne)<br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"https://aqta.ca/\">\u27E9 AQTA : Association québécoise du transport aérien<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.cra-arc.gc.ca/\">\u27E9 ARC : Agence du revenu du Canada<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://asfetm.com/\">\u27E9 ASFETM : Association sectorielle – Fabrication d’équipement de transport et de machines<\a><br><br>\
