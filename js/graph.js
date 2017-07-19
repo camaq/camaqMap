@@ -1182,7 +1182,7 @@ graphUniversitaire = function () { return {
  							\u27E9 Baccalauréat en génie mécanique, concentration génie aéronautique<br>\
  							\u27E9 Maîtrise en génie aérospatial (Programme conjoint)  \u24C5<br>\
  							\u27E9 Programme AeroCREATE   \u24B6",
-				"lien":  "https://www.mcgill.ca" },
+				"lien":  "https://www.mcgill.ca/fr" },
 				
 		{"id": 4, "titre": "École de technologie\nsupérieure (ÉTS)", "graphOpen": "NAN", "symb": ["A", "P", "D", "s"],
 				"mission": "L’École de technologie supérieure est une constituante du réseau de l’Université du Québec. Spécialisée dans l’enseignement et la recherche appliqués en génie et le transfert technologique, elle forme des ingénieurs et des chercheurs reconnus pour leur approche pratique et innovatrice. Depuis sa création, elle entretient un partenariat unique avec le milieu des affaires et l’industrie, tant avec les grandes entreprises que les PME.<br><br> Par sa mission particulière axée sur le génie appliqué et ses liens étroits avec les organisations, l’ÉTS se distingue nettement des établissements universitaires québécois. Elle est de plus la seule école d’ingénierie au Québec qui offre des programmes de baccalauréat en génie créés spécifiquement pour les diplômés de niveau collégial technique désirant se doter d’une formation universitaire.<br><br>",
