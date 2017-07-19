@@ -1415,13 +1415,13 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
 				"mission": "Le Centre Pierre-Dupuy a une triple mission : instruire, socialiser et qualifier. Il a également la responsabilité de favoriser chez les élèves le développement d’attitudes d’ouverture sur le monde et le respect de la diversité. Développer chez l’élève des compétences multiples au regard des attitudes, des habiletés techniques et des connaissances qui lui permettront une participation sociale et une insertion professionnelle réussie.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
  							\u27E9 Électricité (DEP)<br>\
+							\u27E9 Électromécanique de systèmes automatisés (DEP)<br>\
 							\u27E9 Mise en œuvre de matériaux composites (DEP)<br>\
- 							\u27E9 Soudage-montage (DEP)<br>\
+							\u27E9 Réparation d’appareils électroniques audiovidéos (DEP)<br>\
+							\u27E9 Soudage-montage (DEP)<br>\
  							\u27E9 Techniques d’usinage (DEP)<br>\
  							\u27E9 Tôlerie de précision (volet aéronautique ou industriel) (DEP)<br>\
- 							\u27E9 Usinage sur machines-outils à commande numérique (ASP)<br>\
-		  					\u27E9 Électromécanique de systèmes automatisés (DEP)<br>\
- 							\u27E9 Réparation d’appareils électroniques audiovidéos (DEP)",
+ 							\u27E9 Usinage sur machines-outils à commande numérique (ASP)",
 				"lien":  "http://www.csmv.qc.ca/cfp-pierre-dupuy" },
 				
 		{"id": -1, "titre": "Établissements\nd'enseignement", "graphOpen": "graphEDE"},
