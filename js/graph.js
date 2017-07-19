@@ -756,7 +756,7 @@ graphIAM = function () { return {
 				"mission": "Le regroupement AÉROÉTS représente, promeut et intègre les activités d'enseignement et de recherche en aérospatiale de l'ÉTS. Il favorise la mobilisation et l'échange entre les professeurs, chercheurs et étudiants intéressés par ce domaine et contribue au développement de partenariats stratégiques au niveau national et international. AÉROÉTS propose de nombreuses activités pour permettre à ses membres étudiants de découvrir différents aspects du génie aérospatial tout en élargissant leur réseau professionnel. <br><br>\
 								L'Institut de conception et d'innovation en aérospatiale (ICIA) offre aux étudiants membres d'AÉROÉTS des projets de haut niveau (avec un contenu potentiel en Recherche et Développement) chez les partenaires industriels membres du regroupement des Instituts aérospatiaux de Montréal. Ces projets procurent aux étudiants une expérience concrète en entreprise et un savoir-faire de pointe, tout en répondant aux besoins grandissant des entreprises pour une relève hautement qualifiée, pluridisciplinaire et détenant une compréhension des enjeux qui influencent l’industrie aérospatiale.",
 				"activite": "",
-				"lien":  "http://www.aeroets.etsmtl.ca" },
+				"lien":  "http://aeroets.etsmtl.ca" },
 						
 		{"id": 6, "titre": "Institut d'innovation et\nde conception en\naérospatiale de Polytechnique\n(IICAP)", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "L’IICAP contribue au développement de l’industrie aérospatiale du Québec et à sa compétitivité en fournissant aux entreprises des ingénieurs qualifiés répondant à ses besoins en innovation et conception.<br><br>",
