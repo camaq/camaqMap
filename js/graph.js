@@ -1520,12 +1520,11 @@ var legendeObj = [
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://etsmtl.ca/\">\u27E9 ÉTS : École de technologie supérieure<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.frqnt.gouv.qc.ca/accueil\">\u27E9 FRQNT : Fonds de recherche du Québec – Nature et technologies<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.fsg.ulaval.ca/accueil/\">\u27E9 FSG_UL : Faculté des sciences et de génie de l’Université Laval<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://gardn.org/\">\u27E9 GARDN : Groupement Aéronautique de Recherche et Développement en eNvironnement<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://mai-aero.ca/\">\u27E9 IAM/MAI : Instituts Aérospatiaux de Montréal/Montréal Aerospace Institutes<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"https://gardn.org/fr/\">\u27E9 GARDN : Groupement Aéronautique de Recherche et Développement en eNvironnement<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://mai-aero.ca/fr/\">\u27E9 IAM/MAI : Instituts Aérospatiaux de Montréal/Montréal Aerospace Institutes<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.casi.ca/\">\u27E9 IASC/CASI : Institut aéronautique et spatial du Canada/Canadian Aeronautics and Space Institute<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.iata.org/\">\u27E9 IATA : Association internationale du transport aérien/International Air Transport Association<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://aeroets.etsmtl.ca/pages/fr/icia/presentation.php\">\u27E9 ICIA : Institut de conception et d’innovation en aérospatiale (École de technologie supérieure)<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://mai-aero.ca/fr/quatre-instituts/\">\u27E9 IFC-GAS : Institut de formation et de conception en génie aérospatial de Sherbrooke<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.polymtl.ca/iicap/mission/index.php\">\u27E9 IICAP : Institut d’innovation et de conception en aérospatiale de l’École Polytechnique<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.irdq.ca/\">\u27E9 IRDQ : Infrastructure en recherche et développement du Québec<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"https://www.canada.ca/fr/innovation-sciences-developpement-economique.html\">\u27E9 ISDE : Innovation, Sciences et Développement économique Canada<\a><br><br>\
@@ -1534,7 +1533,7 @@ var legendeObj = [
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://qc.cme-mec.ca/\">\u27E9 MEQ : Manufacturiers et Exportateurs du Québec<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.economie.gouv.qc.ca/\">\u27E9 MESI : Ministère de l’Économie, de la Science et de l’Innovation<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.mcgill.ca/miae/mcgill-institute-aerospace-engineering\">\u27E9 MIAE : Institut de génie aérospatial de l’Université McGill<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.mitacs.ca/\">\u27E9 MITACS : Mathematics of Information Technology and Complex Systems (organisation nationale de recherche)<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.mitacs.ca/fr/\">\u27E9 MITACS : Mathematics of Information Technology and Complex Systems (organisation nationale de recherche)<\a><br><br>\
 \u27E9 MNPS : Spécifications de performances minimales de navigation/minimum navigation performance specification<br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.mess.gouv.qc.ca/\">\u27E9 MTESS : Ministère du Travail, de l’Emploi et de la Solidarité sociale<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.icao.int/Pages/FR/default_FR.aspx\">\u27E9 OACI : Organisation de l’aviation civile internationale<\a><br><br>\
@@ -1543,11 +1542,11 @@ var legendeObj = [
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.nrc-cnrc.gc.ca/fra/index.html\">\u27E9 ORT : Organisation de recherche et de technologie<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"https://www.tc.gc.ca/fra/programmes/aeroports-paia-menu-327.htm\">\u27E9 PAIA : Programme d’aide aux immobilisations aéroportuaires (Transports Canada)<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.nrc-cnrc.gc.ca/fra/pari/index.html\">\u27E9 PARI : Programme d’aide à la recherche industrielle (Conseil national de recherches Canada [CNRC])<\a><br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.dec-ced.gc.ca/fra/programmes/pdeq/index.html\">\u27E9 PDEQ : Programme de développement économique du Québec<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.dec-ced.gc.ca/fra/agence/programmes/pdeq/index.html/\">\u27E9 PDEQ : Programme de développement économique du Québec<\a><br><br>\
 \u27E9 PHQ : Personnel hautement qualifié<br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.criaq.aero/Pages/Detail/7378450216/10579844776/_programme_dinitiation_a_la_recherche_en_aerospatiale_pira_pour_les_etudiants1_de_1er_cycle.html\">\u27E9 PIRA : Programme d’initiation à la recherche en aérospatiale (Consortium de recherche et d’innovation en aérospatiale au Québec [CRIAQ])<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.criaq.aero/2016/Pages/Detail/7378450216/10579844776/_programme_dinitiation_a_la_recherche_en_aerospatiale_pira_pour_les_etudiants1_de_1er_cycle.html/\">\u27E9 PIRA : Programme d’initiation à la recherche en aérospatiale (Consortium de recherche et d’innovation en aérospatiale au Québec [CRIAQ])<\a><br><br>\
 \u27E9 PME : Petites et moyennes entreprises<br><br>\
-<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.polymtl.ca/\">\u27E9 Poly : École Polytechnique de Montréal<\a><br><br>\
+<a class=\"linkVisited\" target=\"_blank\" href=\"http://www.polymtl.ca/\">\u27E9 Poly : Polytechnique Montréal<\a><br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.prima.ca/\">\u27E9 PRIMA QUÉBEC : Pôle de recherche et d’innovation en matériaux avancés au Québec<\a><br><br>\
 \u27E9 R&D : Recherche et développement<br><br>\
 <a class=\"linkVisited\" target=\"_blank\" href=\"http://www.cra-arc.gc.ca/txcrdt/sred-rsde/menu-fra.html\">\u27E9 RS&DE : Programme de la recherche scientifique et développement expérimental (Agence du revenu du Canada [ARC])<\a><br><br>\
