@@ -1400,7 +1400,7 @@ graphSECONDAIREETPROFESSIONNEL = function () { return {
 				"lien":  "http://www.cftc.qc.ca" },
 						
 		{"id": 5, "titre": "Centre intégré de mécanique,\nde métallurgie et d’électricité\n(CIMME)", "graphOpen": "NAN", "symb": ["s"],
-				"mission": "Le Cimme a pour mission d’offrir un enseignement de qualité permettant aux futurs travailleurs de répondre aux exigences de plus en plus grandes du marché du travail.<br><br>",
+				"mission": "Le CIMME a pour mission d’offrir un enseignement de qualité permettant aux futurs travailleurs de répondre aux exigences de plus en plus grandes du marché du travail.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Programmes offerts :</span><br><br>\
  							\u27E9 Dessin industriel (DEP)<br>\
  							\u27E9 Électricité (DEP)<br>\
