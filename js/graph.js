@@ -725,7 +725,7 @@ graphIAM = function () { return {
 			"mission": "Instituts Aérospatiaux de Montréal (IAM) est une organisation de l’industrie aérospatiale de Montréal et des universités créé pour répondre aux besoins présents et futurs de l’industrie de personnel hautement qualifié (PHQ) en ingénierie. Chaque université est représentée dans l’IAM par un Institut, par le biais duquel les étudiants peuvent participer à des projets offerts par les entreprises participantes.<br><br>",
 				"activite": "<span style=\"font-weight: bold;\">Exemples d’activités proposées :</span><br><br>\
  							\u27E9 Affichage de stages industriels aux meilleurs étudiants en aérospatiale de 6 universités québécoises : ÉTS, Polytechnique Montréal, McGill, Concordia, Sherbrooke et Laval.",
-				"lien":  "www.mai-aero.ca/fr" },
+				"lien":  "mai-aero.ca/fr" },
 				
 		{"id": 1, "titre": "Concordia Institute\nof Aerospace Design\n& Innovation (CIADI)", "graphOpen": "NAN", "symb": ["s"],
 				"mission": "Les objectifs du « Concordia Institute of Aerospace Design & Innovation » (CIADI) sont de conscientiser et de fournir un savoir-faire de pointe aux étudiants en génie œuvrant dans la conception aéronautique et l’innovation. <br><br>\
