@@ -904,7 +904,7 @@ document.getElementById("about").onclick = function(){
 		Un remerciement spécial à Tarek Ellouadghiri Elidrissi, programmeur stagiaire de l’Université Laval.<br><br><br><br>\
 		<span style=\"font-weight: bold;\">La cartographie de la formation en aérospatiale au Québec et des organismes en soutien est rendue possible avec la collaboration financière de :<br><br>\
 		<a target=\"_blank\" href=\"https://www.cpmt.gouv.qc.ca/\"><img style=\"width: 240px;\" src=\"img/CPMT.png\"/></a><br><br>"
-		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #4678fb; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
+		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #5096dc; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
 				
 		document.getElementById('pathPopup').innerHTML = "";
 		document.getElementById("backTosearchResult").style.display = "none";
