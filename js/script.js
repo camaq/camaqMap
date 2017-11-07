@@ -935,7 +935,7 @@ document.getElementById("contact").onclick = function(){
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 Montréal (Québec)\u00A0\u00A0H1N 3V7<br>\
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 <a target=\"_blank\" href=\"http://www.camaq.org/\">www.camaq.org</a><br><br><br>\
 		\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0 <iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11172.569803746928!2d-73.5494563!3d45.5675739!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x47fc18fcee6fe997!2sCAMAQ+(Comit%C3%A9+sectoriel+de+main+d&#39;oeuvre+en+a%C3%A9rospatiale+du+Qu%C3%A9bec)!5e0!3m2!1sen!2sca!4v1492786519470' width='500' height='300' frameborder='0' style='border:0' allowfullscreen></iframe><br>";
-		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #4678fb; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
+		document.getElementById('popActivite').innerHTML = "<div style=\"margin-top: 100px; background-color: #5096dc; color: #FFFFFF; padding: 15px;\">Tous droits réservés. © 2017 Idée originale du Comité sectoriel de main-d’œuvre en aérospatiale au Québec (CAMAQ).<br><br>Toute reproduction interdite sans l'autorisation de l'auteur.</div>";
 				
 		document.getElementById('pathPopup').innerHTML = "";
 		document.getElementById("backTosearchResult").style.display = "none";
